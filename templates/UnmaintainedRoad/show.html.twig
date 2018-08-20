@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+<h1> This is title </h1>
+<p>Size {{ data|length }} </p>
+
+    <table>
+        <tr>
+            <td>section_id</td>
+            <td>section_name</td>
+            <td>level</td>
+
+            {% set k = tableLength %}
+            {% for i in range(1, tableLength) %}
+                {% if loop.index0 is even %}
+                    <td>beginning</td>
+                {% endif %}
+                {% if loop.index0 is odd %}
+                    <td>end</td>
+                {% endif %}
+            {% endfor %}
+
+        </tr>
+        {% for item in data %}
+            <tr>
+                <td>{{ item.section_id }}</td>
+                <td>{{ item.section_name }}</td>
+                <td>{{ item.level }}</td>
+                {% for p in item.points %}
+                <td>{{ p }}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

@@ -1,0 +1,502 @@
+﻿id;job_id;job_name;road_section;road_section_begin;road_section_end;unit_of;quantity;done_job_date;note;section_id;road_level
+232;11P-14;Mechanizuotas žolės pjovimas;114 Molėtai-Kaltanėnai-Ignalina;0;9;1 ha;14;2018-08-12 00:00;NULL;114;2
+232;11P-14;Mechanizuotas žolės pjovimas;114 Molėtai-Kaltanėnai-Ignalina;11;15;1 ha;14;2018-08-12 00:00;NULL;114;2
+232;11P-14;Mechanizuotas žolės pjovimas;114 Molėtai-Kaltanėnai-Ignalina;50;52;1 ha;14;2018-08-12 00:00;NULL;114;2
+232;11P-14;Mechanizuotas žolės pjovimas;114 Molėtai-Kaltanėnai-Ignalina;52;55;1 ha;14;2018-08-12 00:00;NULL;114;2
+11;11P-18;Vandens nuleidimo sistemos paruošimas polaidžiui (įgaubtoje skiriamojoje juostoje);119 Molėtai-Anykščiai;0;21.688;1 m3;14;2018-06-06 00:00;testuojam2;119;2
+12;11P-18;Vandens nuleidimo sistemos paruošimas polaidžiui (įgaubtoje skiriamojoje juostoje);A14 Vilnius-Utena;40.626;83.1;1 m3;27;2018-06-08 00:00;test3;A14;1
+13;11P-18;Vandens nuleidimo sistemos paruošimas polaidžiui (įgaubtoje skiriamojoje juostoje);2804 Giedraičiai-Bekupė-Želva;0;9.292;1 m3;7;2018-06-04 00:00;test4;2804;3
+15;11P-18;Vandens nuleidimo sistemos paruošimas polaidžiui (įgaubtoje skiriamojoje juostoje);2822 Toliejai-Šnieriškės-Labanoras;1.7;20.515;1 m3;12;2018-06-05 00:00;NULL;2822;3
+17;21P-65;Druskų ir smėlio mišinio barstymas, kai barstymo norma iki 200 kg/1000 m2;173 Molėtai-Pabradė;0;35.127;1000 m2;175;2018-06-08 00:00;test5;173;2
+19;21P-65;Druskų ir smėlio mišinio barstymas, kai barstymo norma iki 200 kg/1000 m2;173 Molėtai-Pabradė;0;1.55;1000 m2;10;2018-06-08 00:00;ssdf;173;2
+20;23P-8;Šlapios druskos paskleidimas, kai skleidimo norma iki 40 kg/1000 m2;A14 Vilnius-Utena;40.626;83.1;1000 m2;294;2018-06-08 00:00;ergfert;A14;1
+21;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;102 Vilnius-Švenčionys-Zarasai;98.537;146.538;10 vnt.;2;2018-06-08 00:00;NULL;102;2
+24;121P-1;Nuovažų valymas;A14 Vilnius-Utena;40.626;83.1;100 m2;12;2018-06-08 00:00;rrrr;A14;1
+25;21P-4;Išdaužų iki 1 m2 ploto užtaisymas;A14 Vilnius-Utena;40.626;83.1;100 m2;1.4;2018-06-08 00:00;NULL;A14;1
+31;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1009 Viekšniai–Stočkai–Pievėnai;0.201;10.901;1000 m2;74.9;2018-06-08 00:00;NULL;1009;3
+34;12P-2;Nuošliaužų sutvarkymas ir išplovų pylimų šlaituose užpylimas gruntu;156 Naujoji Akmenė–Venta;17.4;17.4;1 m3;2;2018-06-08 00:00;NULL;156;2
+36;91P-11;Senų medžių pašalinimas;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1 medis;3;2018-06-01 00:00;NULL;4901;3
+37;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;4910 Utena-Pilveliai-Užpaliai;0;14.475;1 vnt.;4;2018-06-04 00:00;NULL;4910;3
+38;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1008 Palnosai–Gyvoliai–Gudai;0;8.467;10 m2;34;2018-06-08 00:00;NULL;1008;3
+39;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;1000 m2;3;2018-06-08 00:00;NULL;5310;3
+40;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4616 Tryškiai-Degimai-Svirkančiai;6.79;16.22;10 m2;32;2018-06-08 00:00;NULL;4616;3
+41;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;10 m2;100;2018-06-01 00:00;NULL;4901;3
+42;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4913 Rukliai-Radeikiai-Juknėnai;0;13.881;10 m2;35;2018-06-04 00:00;NULL;4913;3
+44;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4910 Utena-Pilveliai-Užpaliai;0;14.475;10 m2;40;2018-06-04 00:00;NULL;4910;3
+45;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;10 m2;25;2018-06-04 00:00;NULL;5310;3
+46;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;1806 Žiežmariai–Kruonis;0;1;1000 m2;4;2018-06-08 00:00;NULL;1806;3
+47;113P-3;Prie atitvarų susikaupusių barstymo liekanų pašalinimas ir tilto važiuojamosios dalies nušlavimas rankiniu būdu;1210 Svėdasai-Butiškiai-Užpaliai;8.196;14.965;1000 m2;0.9;2018-06-04 00:00;NULL;1210;3
+48;113P-3;Prie atitvarų susikaupusių barstymo liekanų pašalinimas ir tilto važiuojamosios dalies nušlavimas rankiniu būdu;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;1000 m2;0.8;2018-06-04 00:00;NULL;5310;3
+49;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;178 Bradesiai-Dusetos-Daugailiai;0;29.197;10 vnt.;0.1;2018-06-08 00:00;NULL;178;2
+50;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas–Zarasai–Daugpilis;50.224;83.6;100 vnt.;0.04;2018-06-08 00:00;NULL;A6;1
+51;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);A6 Kaunas–Zarasai–Daugpilis;81;82;100 m2;4.5;2018-06-08 00:00;NULL;A6;1
+52;33P-11;Žolės pjovimas kelkraščiuose;4305 Musninkai–Čiobiškis–Gelvonai–Vytinė;28;37;1000 m2;21.6;2018-06-08 00:00;NULL;4305;3
+53;33P-11;Žolės pjovimas kelkraščiuose;174 Ukmergė–Raguva–Nevėžis;6.59;13;1000 m2;15.384;2018-06-08 00:00;NULL;174;2
+54;33P-11;Žolės pjovimas kelkraščiuose;4831 Graužiečiai–Antakalnis;0;3.908;1000 m2;18.76;2018-06-08 00:00;NULL;4831;3
+55;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;A6 Kaunas–Zarasai–Daugpilis;65;66.233;100 m2;175;2018-06-08 00:00;NULL;A6;1
+56;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;115 Ukmergė–Molėtai;21;23;100 m2;75;2018-06-08 00:00;NULL;115;2
+57;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;1204 Kavarskas–Taujėnai–Vadokliai–Ramygala;28.6;28.83;100 m2;25;2018-06-08 00:00;NULL;1204;3
+58;63P-6;Įlenktos metalinės atramos ištaisymas;A20 Ukmergės šiaurinis aplinkkelis;7.5;7.647;1 vnt.;1;2018-06-08 00:00;NULL;A20;1
+59;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1204 Kavarskas–Taujėnai–Vadokliai–Ramygala;23;28.83;10 m2;46;2018-06-08 00:00;NULL;1204;3
+60;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4824 Lėnas–Užulėnis;0;2.123;10 m2;52;2018-06-08 00:00;NULL;4824;3
+63;63P-6;Įlenktos metalinės atramos ištaisymas;A20 Ukmergės šiaurinis aplinkkelis;7.3;7.647;1 vnt.;1;2018-06-08 00:00;NULL;A20;1
+64;32P-11;Purvo sankaupų ir žolių kupstų pašalinimas nuo kelkraščio sujungimo su asfalto danga;A16 Vilnius–Prienai–Marijampolė;20;18.01;100 m2;18.6;2018-06-08 00:00;NULL;A16;1
+65;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;145 Kėdainiai–Šėta–Ukmergė;26.767;45.136;1000 m2;0.6;2018-06-11 00:00;NULL;145;2
+66;115P-2;Krūmų iškirtimas;4910 Utena-Pilveliai-Užpaliai;0;14.475;100 m2;0.4;2018-06-05 00:00;NULL;4910;3
+67;510P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, sudėjimas į maišus, pakrovimas ir išvežimas;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;100 kg;0.5;2018-06-05 00:00;NULL;5310;3
+68;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;3607 Čelkiai-Jūžintai-Užpaliai;25.502;36.95;10 vnt.;0.8;2018-06-05 00:00;NULL;3607;3
+69;116P-1;Atsitiktinių daiktų ir akmenų, stambesnių kaip 5 cm skersmens (dangose iš žvyro), surinkimas;4931 Užpaliai-Alaušai-Bajoriškiai;0;7.9;1000 m2;48;2018-06-05 00:00;NULL;4931;3
+70;54P-7;Žolės pjovimas mechanizuotu ir rankiniu būdu;A6 Kaunas-Zarasai-Daugpilis;108.3;150.161;1 ha;1;2018-06-01 00:00;DAIS testavimas;A6;1
+71;54P-7;Žolės pjovimas mechanizuotu ir rankiniu būdu;A14 Vilnius-Utena;83.1;95.658;1 ha;1;2018-06-09 00:00;DAIS testavimas 2;A14;1
+73;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;4907 Jotaučiai-Sirvydžiai-Minčia-Jakėnai;0;20.492;1000 m2;1;2018-06-01 00:00;DAIS testavimas 4;4907;3
+74;59P-1;Šiukšlių pašalinimas;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1 t;0.05;2018-06-05 00:00;NULL;4901;3
+76;54P-7;Žolės pjovimas mechanizuotu ir rankiniu būdu;118 Kupiškis-Utena;30.3;33.6;1 ha;0.5;2018-06-11 00:00;NULL;118;2
+77;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;118 Kupiškis-Utena;23.3;44.619;1000 m2;2;2018-06-11 00:00;NULL;118;2
+78;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3711 Stripiniai–Gėsalai–Viršilai;0;6.61;10 m2;12;2018-06-01 00:00;NULL;3711;3
+79;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3715 Gėsalai–Klauseikiai;0;3.886;10 m2;13;2018-06-01 00:00;NULL;3715;3
+80;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;3711 Stripiniai–Gėsalai–Viršilai;0;6.61;10 vnt.;4;2018-06-01 00:00;NULL;3711;3
+81;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3715 Gėsalai–Klauseikiai;0;3.886;10 m2;3;2018-06-01 00:00;NULL;3715;3
+82;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;50.194;100 vnt.;0.08;2018-06-11 00:00;NULL;A6;1
+83;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;170 Mažeikiai–Skuodas;25.59;52.972;10 vnt.;5;2018-06-04 00:00;NULL;170;2
+84;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;170 Mažeikiai–Skuodas;25.59;52.972;100 vnt.;0.08;2018-06-04 00:00;NULL;170;2
+85;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;143 Jonava–Žasliai–Kalniniai Mijaugonys;0;11.9;100 vnt.;0.08;2018-06-11 00:00;NULL;143;2
+86;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3703 Ylakiai–Vabaliai–Prialgava;0;16.96;10 m2;27;2018-06-04 00:00;NULL;3703;3
+87;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;224 Jonava–Liepiai–Pasraučiai;0;18.864;100 vnt.;0.15;2018-06-11 00:00;NULL;224;2
+88;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;100 vnt.;0.04;2018-06-11 00:00;NULL;1915;3
+89;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1505 Jonava–Čičinai–Smičkiai;0;2;100 vnt.;0.04;2018-06-11 00:00;NULL;1505;3
+90;11P-14;Mechanizuotas žolės pjovimas;170 Mažeikiai–Skuodas;37;51.5;1 ha;0.57;2018-06-07 00:00;NULL;170;2
+91;91P-10;Sausų šakų išpjovimas;3610 Lukščiai-Kalbutiškės-Dusetos;6;7;1 medis;8;2018-06-01 00:00;NULL;3610;3
+92;114P-9;Metalinių turėklų perdažymas antikoroziniais dažais, dažant teptuku, nuvalius paviršių rankiniu būdu;178 Bradesiai-Dusetos-Daugailiai;0;1;10 m2;10;2018-06-01 00:00;NULL;178;2
+93;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3708 Kaukolikai–Lyksūdė–Šatės;0;6.57;1000 m2;53;2018-06-07 00:00;NULL;3708;3
+94;113P-8;Gelžbetoninių atitvarų perdažymas;178 Bradesiai-Dusetos-Daugailiai;0;1;10 m2;6.3;2018-06-01 00:00;NULL;178;2
+95;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3702 Kaukolikai–Nausėdai–Raudoniai;0;8.18;1000 m2;65;2018-06-07 00:00;NULL;3702;3
+96;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;178 Bradesiai-Dusetos-Daugailiai;0;29.197;100 vnt.;0.08;2018-06-04 00:00;NULL;178;2
+97;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;179 Dusetos-Degučiai-Dūkštas;0;16;100 vnt.;0.06;2018-06-04 00:00;NULL;179;2
+98;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;178 Bradesiai-Dusetos-Daugailiai;0;29.197;10 vnt.;0.2;2018-06-04 00:00;NULL;178;2
+100;91P-11;Senų medžių pašalinimas;178 Bradesiai-Dusetos-Daugailiai;11.98;29.197;1 medis;1;2018-06-05 00:00;NULL;178;2
+101;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;5311 Duliai-Šalinėnai-Baibiai;0;6.071;1 vnt.;1;2018-06-05 00:00;NULL;5311;3
+102;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;5324 Antalieptė-Zabičiūnai-Vasaknos;0;6.77;10 vnt.;0.2;2018-06-05 00:00;NULL;5324;3
+103;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3703 Ylakiai–Vabaliai–Prialgava;0;3.28;1000 m2;26;2018-06-07 00:00;NULL;3703;3
+104;91P-11;Senų medžių pašalinimas;5308 Dusetos-Antazavė-Kumpuoliai;0;9.445;1 medis;1;2018-06-05 00:00;NULL;5308;3
+105;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3711 Stripiniai–Gėsalai–Viršilai;0;4.5;1000 m2;36;2018-06-07 00:00;NULL;3711;3
+106;91P-11;Senų medžių pašalinimas;4901 Utena-Sudeikiai-Alaušai-Dusetos;27;28;1 medis;1;2018-06-05 00:00;NULL;4901;3
+107;32P-4;Gilesnių kaip 100 mm išdaužų užlyginimas, pridedant naujų medžiagų;178 Bradesiai-Dusetos-Daugailiai;0;1;100 m2;0.1;2018-06-06 00:00;NULL;178;2
+108;11P-14;Mechanizuotas žolės pjovimas;170 Mažeikiai–Skuodas;25.59;37;1 ha;33;2018-06-08 00:00;NULL;170;2
+109;91P-11;Senų medžių pašalinimas;178 Bradesiai-Dusetos-Daugailiai;0;12;1 medis;1;2018-06-07 00:00;NULL;178;2
+110;91P-10;Sausų šakų išpjovimas;178 Bradesiai-Dusetos-Daugailiai;0;29.197;1 medis;2;2018-06-07 00:00;NULL;178;2
+111;12P-2;Nuošliaužų sutvarkymas ir išplovų pylimų šlaituose užpylimas gruntu;5305 Zarasai-Mukuliai-Vencavai-Antalieptė;22;23;1 m3;5;2018-06-08 00:00;NULL;5305;3
+115;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;224 Jonava–Liepiai–Pasraučiai;0;18.864;1000 m2;5;2018-06-11 00:00;NULL;224;2
+116;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas–Zarasai–Daugpilis;50.224;83.6;100 vnt.;0.08;2018-06-11 00:00;NULL;A6;1
+117;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas–Zarasai–Daugpilis;50.224;83.6;100 vnt.;0.04;2018-06-11 00:00;NULL;A6;1
+118;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A20 Ukmergės šiaurinis aplinkkelis;0.019;7.647;100 m2;0.4;2018-06-10 00:00;NULL;A20;1
+119;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;A6 Kaunas–Zarasai–Daugpilis;50.224;83.6;1000 m2;0.03;2018-06-10 00:00;NULL;A6;1
+120;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A20 Ukmergės šiaurinis aplinkkelis;0.019;7.647;1 vnt.;3;2018-06-10 00:00;NULL;A20;1
+121;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas–Zarasai–Daugpilis;50.224;83.6;1 vnt.;5;2018-06-10 00:00;NULL;A6;1
+122;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A19 Vilniaus pietinis aplinkkelis;0;7.844;1000 m2;0.3;2018-08-11 00:00;NULL;A6;1
+125;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A4 Vilnius–Varėna–Gardinas;15.564;39.546;10 vnt.;8;2018-06-11 00:00;NULL;A4;1
+126;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A16 Vilnius–Prienai–Marijampolė;15.55;62.994;1000 m2;6;2018-06-11 00:00;NULL;A16;1
+127;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A16 Vilnius–Prienai–Marijampolė;15.5;62.994;1000 m2;6;2018-06-11 00:00;NULL;A16;1
+128;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A16 Vilnius–Prienai–Marijampolė;15.55;62.994;100 m2;12;2018-06-11 00:00;NULL;A16;1
+129;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;220 Trakai–Rūdiškės–Pivašiūnai–Alytus;32;40;100 m;3;2018-06-11 00:00;NULL;220;2
+130;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;178 Bradesiai-Dusetos-Daugailiai;0;29.197;100 vnt.;0.09;2018-06-11 00:00;NULL;178;2
+131;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;179 Dusetos-Degučiai-Dūkštas;0;16;100 vnt.;0.06;2018-06-11 00:00;NULL;179;2
+132;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4743 Žydkaimis–Panošiškės–Saloviškės;0;3.233;1000 m2;25;2018-06-11 00:00;NULL;4743;3
+133;33P-11;Žolės pjovimas kelkraščiuose;4803 Ukmergė–Siesartis–Skuoliai;0;20.371;1000 m2;48;2018-06-11 00:00;NULL;4803;3
+134;33P-11;Žolės pjovimas kelkraščiuose;1204 Kavarskas–Taujėnai–Vadokliai–Ramygala;11.945;28.83;1000 m2;42;2018-06-11 00:00;NULL;1204;3
+135;33P-11;Žolės pjovimas kelkraščiuose;174 Ukmergė–Raguva–Nevėžis;6.59;17;1000 m2;9;2018-06-11 00:00;NULL;174;2
+136;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;115 Ukmergė–Molėtai;21;22;vnt;4;2018-06-11 00:00;NULL;115;2
+137;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;115 Ukmergė–Molėtai;21;22;1 vnt.;4;2018-06-11 00:00;NULL;115;2
+139;64P-7;Vienpusių kelio ženklų skydų pakeitimas naujais rankiniu būdu,kai skydai, kurių kraštinės ilgis iki vieno metro, tvirtinami prie vienastiebių atramų;A8 Panevėžys-Aristava-Sitkūnai;7.508;32.72;1 vnt.;1;2018-06-11 00:00;30 km;A8;1
+140;64P-7;Vienpusių kelio ženklų skydų pakeitimas naujais rankiniu būdu,kai skydai, kurių kraštinės ilgis iki vieno metro, tvirtinami prie vienastiebių atramų;A8 Panevėžys-Aristava-Sitkūnai;7.508;32.72;1 vnt.;2;2018-06-11 00:00;30 km;A8;1
+141;21P-5;Išdaužų iki 1 m2  ploto užtaisymas;1204 Kavarskas-Taujėnai-Vadokliai-Ramygala;33.536;46.181;100 m2;0.1;2018-06-11 00:00;44 km;1204;3
+142;11P-14;Mechanizuotas žolės pjovimas;225 Raseiniai–Baisogala;0.4;6.2;1 ha;1.65;2018-06-01 00:00;NULL;225;2
+143;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3508 Viduklės g. st.–Plačiuva–Paupys;10.5;11.1;10 m2;30;2018-06-01 00:00;NULL;3508;3
+144;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A10 Panevėžys-Pasvalys-Ryga;9.08;19.286;1000 m2;0.001;2018-06-11 00:00;NULL;A10;1
+145;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;196 Ariogala–Raseiniai–Kryžkalnis;40;48;10 m2;35;2018-06-01 00:00;NULL;196;2
+147;11P-14;Mechanizuotas žolės pjovimas;3501 Betygala–Ilgižiai–Krakės–Bokštai;0;10.235;1 ha;3;2018-06-01 00:00;NULL;3501;3
+148;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;3501 Betygala–Ilgižiai–Krakės–Bokštai;0;10.235;1000 m2;2.2;2018-06-01 00:00;NULL;3501;3
+149;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3501 Betygala–Ilgižiai–Krakės–Bokštai;0;10.235;10 m2;32;2018-06-01 00:00;NULL;3501;3
+152;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;2336 Kunigiškiai–Palanga;0;6.861;100 vnt.;0.05;2018-06-11 00:00;NULL;2336;3
+153;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A11 Šiauliai–Palanga;113.73;146.515;100 vnt.;0.08;2018-06-11 00:00;NULL;A11;1
+154;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;137 Pilviškiai–Šakiai–Jurbarkas;31;56.78;100 vnt.;0.03;2018-06-11 00:00;NULL;137;2
+156;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3806 Šakiai–Slavikai;1.86;19.665;10 m2;70;2018-06-11 00:00;NULL;3806;3
+162;11P-16;Žolės pjovimas rankiniu budu;218 Kretinga–Skuodas;0;28;10 m2;10;2018-06-11 00:00;NULL;218;2
+163;11P-16;Žolės pjovimas rankiniu budu;2305 Salantai–Grūšlaukė–Benaičiai;5;7;10 m2;5;2018-06-11 00:00;NULL;2305;3
+165;13P-15;Krūmų iškirtimas grioviuose, naudojant mažosios mechanizacijos priemones;2312 Kretinga–Raguviškiai–Budriai;0;2;100 m2;0.2;2018-06-11 00:00;NULL;2312;3
+166;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;A11 Šiauliai–Palanga;2.65;12;1000 m2;51.6;2018-06-11 00:00;NULL;A11;1
+167;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;155 Kuršėnai–Mažeikiai;8;15.24;1000 m2;25.2;2018-06-11 00:00;NULL;155;2
+169;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A15 Vilnius–Lyda;10.623;41.5;100 m2;19.04;2018-06-01 00:00;NULL;A15;1
+170;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);A11 Šiauliai–Palanga;27.3;27.6;100 m2;1.2;2018-06-11 00:00;NULL;A11;1
+172;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A11 Šiauliai–Palanga;5.3;7.4;100 m2;10.5;2018-06-12 00:00;NULL;A11;1
+173;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A11 Šiauliai–Palanga;18;21;10 vnt.;8.7;2018-06-12 00:00;NULL;A11;1
+174;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;3930 Tabariškės–Ūdronys;0;1.02;100 m;6.16;2018-06-01 00:00;NULL;3930;3
+175;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;A11 Šiauliai–Palanga;2.65;43;10 m2;0.189;2018-06-12 00:00;NULL;A11;1
+176;11P-14;Mechanizuotas žolės pjovimas;170 Mažeikiai–Skuodas;25.59;43;1 ha;41.7;2018-06-11 00:00;NULL;170;2
+177;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;145 Kėdainiai–Šėta–Ukmergė;26.767;45.136;1000 m2;0.04;2018-06-08 00:00;NULL;145;2
+178;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;145 Kėdainiai–Šėta–Ukmergė;26.767;45.136;10 vnt.;0.8;2018-06-08 00:00;NULL;145;2
+179;33P-11;Žolės pjovimas kelkraščiuose;168 Klaipėda–Kretinga;5.56;22.884;1000 m2;21;2018-06-11 00:00;NULL;168;2
+180;61P-4;Žolės pjovimas rankiniu būdu;170 Mažeikiai–Skuodas;45;51.5;10 m2;24;2018-06-11 00:00;NULL;170;2
+181;33P-11;Žolės pjovimas kelkraščiuose;A11 Šiauliai–Palanga;113.73;146.515;1000 m2;31.5;2018-06-11 00:00;NULL;A11;1
+182;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;A12 Ryga–Šiauliai–Tauragė–Kaliningradas;59.49;77.055;10 vnt.;1;2018-06-11 00:00;NULL;A12;1
+185;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;168 Klaipėda–Kretinga;5.56;22.884;100 vnt.;0.1;2018-06-11 00:00;NULL;168;2
+186;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;216 Gargždai–Kretinga;13.584;22.687;100 vnt.;0.08;2018-06-11 00:00;NULL;216;2
+187;11P-16;Žolės pjovimas rankiniu budu;154 Šiauliai–Gruzdžiai–Naujoji Akmenė;3.691;34.8;10 m2;21;2018-06-11 00:00;NULL;154;2
+188;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;154 Šiauliai–Gruzdžiai–Naujoji Akmenė;3.691;34.8;100 m2;11.5;2018-06-11 00:00;NULL;154;2
+189;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1004 Akmenė–Agluonai–Laižuva;15.067;17.384;1000 m2;16.219;2018-06-11 00:00;NULL;1004;3
+190;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;3937 Jašiūnai–Turgeliai–Tabariškės;0;20.838;m;200;2018-06-01 00:00;NULL;3937;3
+191;54P-2;Poilsio aikštelių su asfalto danga valymas mechanizuotai, užbaigiant rankiniu būdu;A11 Šiauliai–Palanga;113.73;146.515;100 m2;1;2018-06-11 00:00;Poilsio aikštelių valymas rankiniu būdu;A11;1
+192;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;3937 Jašiūnai–Turgeliai–Tabariškės;0;20.838;100 m2;57.14;2018-06-01 00:00;NULL;3937;3
+193;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;2716 Tirkšliai–Užlieknė–Viekšniai;10.667;11.581;1000 m2;7.312;2018-06-11 00:00;NULL;2716;3
+194;82P-9;Betoninių signalinių stulpelių pakeitimas;A11 Šiauliai–Palanga;113.73;146.515;10 vnt.;1;2018-06-11 00:00;Plastikinių signalinių pakeitimas;A11;1
+195;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1014 Alkiškiai–Menčiai–Pakalniškiai;0;8.283;10 m2;43;2018-06-11 00:00;NULL;1014;3
+196;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A11 Šiauliai–Palanga;113.73;146.515;1 vnt.;4;2018-06-11 00:00;NULL;A11;1
+197;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1027 Papilė–Eglesiai–Kruopiai;3.851;19.999;10 m2;46;2018-06-11 00:00;NULL;1027;3
+198;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;154 Šiauliai–Gruzdžiai–Naujoji Akmenė;3.691;34.8;1000 m2;26;2018-06-11 00:00;NULL;154;2
+199;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1018 Papilė–Draginiai–Žarėnai–Dauginčiai;0;6;10 m2;36;2018-06-11 00:00;NULL;1018;3
+200;11P-16;Žolės pjovimas rankiniu budu;150 Šiauliai–Pakruojis–Pasvalys;0.029;12.8;10 m2;18;2018-06-11 00:00;NULL;150;2
+201;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;A11 Šiauliai–Palanga;113.73;146.515;1 vnt.;2;2018-06-11 00:00;NULL;A11;1
+202;11P-16;Žolės pjovimas rankiniu budu;A18 Šiaulių aplinkkelis;0;17.134;10 m2;21.3;2018-06-11 00:00;NULL;A18;1
+203;11P-14;Mechanizuotas žolės pjovimas;1001 Naujoji Akmenė–Vegeriai–Vytiniai;1;11.555;1 ha;2.11;2018-06-11 00:00;NULL;1001;3
+204;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A12 Ryga–Šiauliai–Tauragė–Kaliningradas;59.49;77.055;100 m2;6.5;2018-06-11 00:00;NULL;A12;1
+205;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;1014 Alkiškiai–Menčiai–Pakalniškiai;0;8.283;10 vnt.;0.3;2018-06-11 00:00;NULL;1014;3
+206;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;2106 Kelmė–Noreišiai–Bubiai;16.889;28.025;100 m2;2.3;2018-06-11 00:00;NULL;2106;3
+207;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;1027 Papilė–Eglesiai–Kruopiai;3.851;19.999;10 vnt.;0.2;2018-06-11 00:00;NULL;1027;3
+208;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;168 Klaipėda–Kretinga;5.56;22.884;1 vnt.;3;2018-06-11 00:00;NULL;168;2
+209;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1014 Alkiškiai–Menčiai–Pakalniškiai;0;8.283;1 vnt.;2;2018-06-11 00:00;NULL;1014;3
+210;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;168 Klaipėda–Kretinga;5.56;22.884;1 vnt.;1;2018-06-11 00:00;NULL;168;2
+211;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1027 Papilė–Eglesiai–Kruopiai;3.851;19.999;1 vnt.;4;2018-06-11 00:00;NULL;1027;3
+212;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;168 Klaipėda–Kretinga;5.56;22.884;10 vnt.;0.4;2018-06-11 00:00;NULL;168;2
+213;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;A11 Šiauliai–Palanga;113.73;146.515;1000 m2;31.5;2018-06-11 00:00;Žolės pjovimas mechanizuotai šlaituose.;A11;1
+214;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;168 Klaipėda–Kretinga;5.56;22.884;1000 m2;21;2018-06-11 00:00;Žolės pjovimas mechanizuotai šlaituose.;168;2
+215;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;218 Kretinga–Skuodas;15;28;10 vnt.;1.3;2018-06-12 00:00;NULL;218;2
+217;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A13 Klaipėda–Liepoja;0;24.393;100 vnt.;0.1;2018-06-11 00:00;NULL;A13;1
+218;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A13 Klaipėda–Liepoja;0;24.393;10 vnt.;1;2018-06-11 00:00;NULL;A13;1
+219;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A13 Klaipėda–Liepoja;32.918;43.834;100 vnt.;0.1;2018-06-11 00:00;NULL;A13;1
+220;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A13 Klaipėda–Liepoja;32.918;43.834;10 vnt.;0.8;2018-06-12 00:00;NULL;A13;1
+221;11P-14;Mechanizuotas žolės pjovimas;A15 Vilnius–Lyda;10.623;41.5;1 ha;7.33;2018-06-04 00:00;NULL;A15;1
+222;32P-3;Kelkraščio profiliavimas autogreideriu;232 Vilijampolė–Žeimiai–Šėta;14.38;23;1 km pravaž.;32;2018-06-01 00:00;NULL;232;2
+223;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;176 Pirčiupiai–Jašiūnai;0;26.643;100 m2;28.57;2018-06-04 00:00;NULL;176;2
+224;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;232 Vilijampolė–Žeimiai–Šėta;14.38;46;10 vnt.;4;2018-06-01 00:00;NULL;232;2
+225;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;232 Vilijampolė–Žeimiai–Šėta;14.38;46;10 vnt.;4;2018-06-01 00:00;NULL;232;2
+226;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;232 Vilijampolė–Žeimiai–Šėta;32.05;48.674;100 m2;60;2018-06-01 00:00;NULL;232;2
+227;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;232 Vilijampolė–Žeimiai–Šėta;14.38;46;10 m2;4.9;2018-06-01 00:00;NULL;232;2
+228;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;232 Vilijampolė–Žeimiai–Šėta;14.38;46;100 m2;16;2018-06-01 00:00;NULL;232;2
+229;54P-1;Poilsio aikštelių su vejos danga valymas;232 Vilijampolė–Žeimiai–Šėta;25;28;1000 m2;1.9;2018-06-01 00:00;NULL;232;2
+230;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;3937 Jašiūnai–Turgeliai–Tabariškės;12.57;20.838;100 m;3;2018-06-04 00:00;NULL;3937;3
+231;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;232 Vilijampolė–Žeimiai–Šėta;14.38;46;100 vnt.;0.2;2018-06-01 00:00;NULL;232;2
+232;11P-14;Mechanizuotas žolės pjovimas;114 Molėtai-Kaltanėnai-Ignalina;38.724;55.629;1 ha;14;2018-06-12 00:00;NULL;114;2
+233;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;112 Ignalina-Didžiasalis;16.6;37.138;10 m2;2.3;2018-06-12 00:00;Apie signalinius ir kelio ženklus.;112;2
+235;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1415 Ceikiniai-Velykamiškis-Šventa;0;3.097;1000 m2;18;2018-06-12 00:00;NULL;1415;3
+236;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1428 Ceikiniai-Kančioginas;0;5.763;1000 m2;36;2018-06-12 00:00;NULL;1428;3
+237;33P-11;Žolės pjovimas kelkraščiuose;2201 Priekulė–Sakūčiai–Ventė;0;8.5;1000 m2;17;2018-06-11 00:00;NULL;2201;3
+238;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;141 Kaunas–Jurbarkas–Šilutė–Klaipėda;229.096;216;10 m2;50;2018-06-11 00:00;NULL;141;2
+239;55P-1;Šiukšlių, atsitiktinių daiktų  surinkimas pastatuose ir teritorijose apie juos, pakrovimas ir išvežimas;167 Smiltynė–Nida;0.392;50.589;1000 m2;1;2018-06-11 00:00;Šiukšlių rinkimas pėsčiųjų-dviračiu take;167;2
+240;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A1 Vilnius-Kaunas-Klaipėda;250;306.233;10 vnt.;0.4;2018-06-11 00:00;NULL;A1;1
+241;11P-14;Mechanizuotas žolės pjovimas;A15 Vilnius–Lyda;10.623;41.5;1 ha;7.33;2018-06-05 00:00;NULL;A15;1
+242;11P-14;Mechanizuotas žolės pjovimas;5202 Rudamina–Turgeliai;11.149;18.584;1 ha;1.99;2018-06-05 00:00;NULL;5202;3
+243;11P-14;Mechanizuotas žolės pjovimas;176 Pirčiupiai–Jašiūnai;0;26.643;1 ha;7.99;2018-06-05 00:00;NULL;176;2
+244;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;176 Pirčiupiai–Jašiūnai;0;26.643;100 m;2;2018-06-05 00:00;NULL;176;2
+245;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;3917 Mikašiūnai–Rūdninkai;0;3.393;100 m;9.21;2018-06-05 00:00;NULL;3917;3
+246;11P-14;Mechanizuotas žolės pjovimas;A15 Vilnius–Lyda;10.623;48.835;1 ha;7.33;2018-06-06 00:00;NULL;A15;1
+247;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A15 Vilnius–Lyda;10.623;41.5;10 m2;200;2018-06-07 00:00;NULL;A15;1
+248;63P-10;Sulaužytų arba deformuotų metalinių atramų pakeitimas;176 Pirčiupiai–Jašiūnai;0;26.643;1 vnt.;5;2018-06-07 00:00;NULL;176;2
+249;11P-14;Mechanizuotas žolės pjovimas;176 Pirčiupiai–Jašiūnai;0;26.643;1 ha;7.33;2018-06-07 00:00;NULL;176;2
+250;11P-14;Mechanizuotas žolės pjovimas;3937 Jašiūnai–Turgeliai–Tabariškės;0;20.838;1 ha;6.25;2018-06-07 00:00;NULL;3937;3
+251;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A1 Vilnius-Kaunas-Klaipėda;190;197;1000 m2;2.1;2018-06-12 00:00;NULL;A1;1
+252;11P-14;Mechanizuotas žolės pjovimas;3926 Vilkiškės–Skynimai;0;3.327;1 ha;1;2018-06-07 00:00;NULL;3926;3
+253;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A15 Vilnius–Lyda;10.623;41.5;100 m2;28.57;2018-06-08 00:00;NULL;A15;1
+254;11P-14;Mechanizuotas žolės pjovimas;176 Pirčiupiai–Jašiūnai;0;26.643;1 ha;7.33;2018-06-08 00:00;NULL;176;2
+255;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;4913 Rukliai-Radeikiai-Juknėnai;0;13.881;1 vnt.;4;2018-06-06 00:00;NULL;4913;3
+256;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3701 Kulai I–Mažieji Rūšupiai;0;5.099;10 m2;21;2018-06-01 00:00;NULL;3701;3
+257;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;169 Skuodas–Plungė;0;33.4;10 m2;24;2018-06-04 00:00;NULL;169;2
+258;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;176 Pirčiupiai–Jašiūnai;0;26.643;100 m;1;2018-06-08 00:00;NULL;176;2
+259;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;218 Kretinga–Skuodas;28;52.425;10 m2;13;2018-06-05 00:00;NULL;218;2
+260;510P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, sudėjimas į maišus, pakrovimas ir išvežimas;4909 Tauragnai-Sirvydžiai-Daugailiai;0;19.388;1000m2;4;2018-06-06 00:00;NULL;4909;3
+261;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;169 Skuodas–Plungė;0;33.4;10 m2;NULL;2018-06-05 00:00;NULL;169;2
+262;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;173 Molėtai–Pabradė;41.38;42.388;1 vnt.;2;2018-06-11 00:00;NULL;173;2
+263;11P-4;Įdubų (gilesnių kaip 10 cm) užtaisymas;3709 Mažieji Rūšupiai–Rukai–Žebrokai;0;15.116;100 m2;3.1;2018-06-05 00:00;NULL;3709;3
+264;62P-3;Sulaužyto gelžbetoninės atramos pamato pakeitimas nauju, betonuojant vietoje;4931 Užpaliai-Alaušai-Bajoriškiai;7.6;7.7;1 vnt.;2;2018-06-05 00:00;NULL;4931;3
+265;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A15 Vilnius–Lyda;10.623;41.5;100 m2;19.04;2018-06-11 00:00;NULL;A15;1
+266;21P-53;Asfalto dangų nufrezavimas;4910 Utena-Pilveliai-Užpaliai;14;14.475;100 m2;0.4;2018-06-05 00:00;NULL;4910;3
+267;11P-14;Mechanizuotas žolės pjovimas;218 Kretinga–Skuodas;28;52.425;1 ha;7.5;2018-06-05 00:00;NULL;218;2
+268;11P-14;Mechanizuotas žolės pjovimas;218 Kretinga–Skuodas;28;52.425;1 ha;4;2018-06-06 00:00;NULL;218;2
+269;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;218 Kretinga–Skuodas;28;52.425;10 m2;18;2018-06-06 00:00;NULL;218;2
+270;11P-14;Mechanizuotas žolės pjovimas;3701 Kulai I–Mažieji Rūšupiai;0;5.099;1 ha;3;2018-06-06 00:00;NULL;3701;3
+271;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A15 Vilnius–Lyda;10.623;41.5;10 m2;200;2018-06-11 00:00;NULL;A15;1
+272;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;102 Vilnius–Švenčionys–Zarasai;45.93;98.458;10 m2;100;2018-06-12 00:00;NULL;102;2
+273;61P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, pakrovimas ir išvežimas;5310 Dusetos-Užpaliai-Vyžuonos;12.9;33.582;1000 m2;2;2018-06-07 00:00;NULL;5310;3
+274;13P-2;Griovio profilio atstatymas naudojant autogreiderį;1415 Ceikiniai–Velykamiškis–Šventa;3.208;5.2;1 km griovio;0.3;2018-06-11 00:00;NULL;1415;3
+275;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3710 Skuodas–Mosėdis–Šaukliai;0;16.308;1000 m2;54;2018-06-07 00:00;NULL;3710;3
+276;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3717 Notėnai–Vindeikiai–Prialgava;0;5.79;1000 m2;37;2018-06-07 00:00;NULL;3717;3
+277;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;2704 Seda–Barstyčiai–Salantai;8.575;33.688;1000 m2;31;2018-06-07 00:00;NULL;2704;3
+278;63P-6;Įlenktos metalinės atramos ištaisymas;3612 Kariūnai-Duokiškis-Vilučiai-Kušliai;17.2;19.266;1 vnt.;2;2018-06-07 00:00;NULL;3612;3
+279;11P-14;Mechanizuotas žolės pjovimas;218 Kretinga–Skuodas;28;52.425;1 ha;30;2018-06-07 00:00;NULL;218;2
+280;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;4931 Užpaliai-Alaušai-Bajoriškiai;0;17.544;10 vnt.;2.8;2018-06-07 00:00;NULL;4931;3
+281;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;218 Kretinga–Skuodas;28;52.425;10 m2;20;2018-06-07 00:00;NULL;218;2
+282;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;169 Skuodas–Plungė;0;33.4;10 m2;18;2018-06-08 00:00;NULL;169;2
+283;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;169 Skuodas–Plungė;0;33.4;10 m2;11;2018-06-11 00:00;NULL;169;2
+284;63P-6;Įlenktos metalinės atramos ištaisymas;A4 Vilnius–Varėna–Gardinas;78;101.5;1 vnt.;1;2018-06-12 00:00;Darbai atlikti;A4;1
+285;510P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, sudėjimas į maišus, pakrovimas ir išvežimas;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1000 m2;3;2018-06-07 00:00;NULL;4901;3
+286;11P-14;Mechanizuotas žolės pjovimas;169 Skuodas–Plungė;0;33.4;1 ha;40;2018-06-11 00:00;NULL;169;2
+287;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;5310 Dusetos-Užpaliai-Vyžuonos;12.9;33.582;1000 m2;4;2018-06-08 00:00;NULL;5310;3
+288;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1000 m2;NULL;2018-06-08 00:00;NULL;4901;3
+289;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;102 Vilnius–Švenčionys–Zarasai;45.93;98.458;100 m;12.5;2018-06-11 00:00;NULL;102;2
+290;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;4404 Pabradė–Prienai–Kiemeliškės;12.863;16.163;100 m;0.3;2018-06-12 00:00;NULL;4404;3
+291;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;4404 Pabradė–Prienai–Kiemeliškės;3.73;12.863;100 m;0.7;2018-06-12 00:00;NULL;4404;3
+292;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1210 Svėdasai-Butiškiai-Užpaliai;8.196;14.965;1000 m2;1.2;2018-06-07 00:00;NULL;1210;3
+293;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;3922 Žališkės–Mištautonys–Širviai;0;8.7;1000 m2;69.6;2018-06-12 00:00;NULL;3922;3
+294;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3612 Kariūnai-Duokiškis-Vilučiai-Kušliai;11.698;19.266;1000 m2;0.6;2018-06-07 00:00;NULL;3612;3
+295;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;176 Pirčiupiai–Jašiūnai;0;26.643;100 m2;19.04;2018-06-12 00:00;NULL;176;2
+296;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3607 Čelkiai-Jūžintai-Užpaliai;25.502;36.95;1000 m2;58.4;2018-06-08 00:00;NULL;3607;3
+297;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;4928 Kaniūkai-Tarvydžiai;0;3.078;1000 m2;24.8;2018-06-08 00:00;NULL;4928;3
+298;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;A6 Kaunas-Zarasai-Daugpilis;5.95;30;10 vnt.;4;2018-06-01 00:00;NULL;A6;1
+299;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;5310 Dusetos-Užpaliai-Vyžuonos;12.9;33.582;1000 m2;50.4;2018-06-12 00:00;NULL;5310;3
+300;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A6 Kaunas-Zarasai-Daugpilis;5.95;30;10 vnt.;4;2018-06-01 00:00;NULL;A6;1
+301;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1000 m2;0.6;2018-06-08 00:00;NULL;4901;3
+302;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-01 00:00;NULL;A6;1
+303;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3612 Kariūnai-Duokiškis-Vilučiai-Kušliai;11.698;19.266;1000 m2;0.6;2018-06-08 00:00;NULL;3612;3
+304;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-01 00:00;NULL;A6;1
+305;32P-8;Nusidėvėjusio sluoksnio iki 50 mm storio atstatymas;A6 Kaunas-Zarasai-Daugpilis;25;27;100 m2;0.2;2018-06-01 00:00;NULL;A6;1
+306;11P-1;Skiriamosios juostos valymas;A6 Kaunas-Zarasai-Daugpilis;23;26;1000 m2;12;2018-06-01 00:00;NULL;A6;1
+307;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 m2;16;2018-06-01 00:00;NULL;A6;1
+308;33P-11;Žolės pjovimas kelkraščiuose;173 Molėtai–Pabradė;35.127;41.38;1000 m2;12.506;2018-06-11 00:00;NULL;173;2
+309;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;10 m2;4;2018-06-01 00:00;NULL;A6;1
+310;54P-1;Poilsio aikštelių su vejos danga valymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;1000 m2;6.6;2018-06-01 00:00;NULL;A6;1
+311;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 vnt.;0.2;2018-06-01 00:00;NULL;A6;1
+312;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 vnt.;0.15;2018-06-04 00:00;NULL;A6;1
+313;54P-1;Poilsio aikštelių su vejos danga valymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;1000 m2;6.6;2018-06-04 00:00;NULL;A6;1
+314;33P-11;Žolės pjovimas kelkraščiuose;173 Molėtai–Pabradė;41.38;42.388;1000 m2;2.016;2018-06-11 00:00;NULL;173;2
+315;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 m2;12;2018-06-04 00:00;NULL;A6;1
+316;11P-14;Mechanizuotas žolės pjovimas;A6 Kaunas-Zarasai-Daugpilis;108.3;150.161;1000m2;2;2018-06-12 00:00;NULL;A6;1
+317;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-04 00:00;NULL;A6;1
+318;33P-11;Žolės pjovimas kelkraščiuose;102 Vilnius–Švenčionys–Zarasai;45.93;98.458;1000 m2;9;2018-06-12 00:00;NULL;102;2
+319;11P-14;Mechanizuotas žolės pjovimas;111 Utena-Kaltanėnai-Švenčionys;0;28.212;1000m2;8;2018-06-12 00:00;NULL;111;2
+320;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-04 00:00;NULL;A6;1
+321;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A6 Kaunas-Zarasai-Daugpilis;5.95;29;10 m2;160;2018-06-04 00:00;NULL;A6;1
+322;11P-14;Mechanizuotas žolės pjovimas;A14 Vilnius-Utena;83.1;95.658;1000m2;8.8;2018-06-12 00:00;NULL;A14;1
+323;11P-1;Skiriamosios juostos valymas;A6 Kaunas-Zarasai-Daugpilis;18;20;1000 m2;8;2018-06-04 00:00;NULL;A6;1
+324;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;A6 Kaunas-Zarasai-Daugpilis;5.95;30;100 m2;60;2018-06-04 00:00;NULL;A6;1
+325;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A6 Kaunas-Zarasai-Daugpilis;108.3;150.161;1000 m2;5.2;2018-06-12 00:00;NULL;A6;1
+326;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;144 Jonava–Kėdainiai–Šeduva;0;23;100 vnt.;0.15;2018-06-04 00:00;NULL;144;2
+327;54P-1;Poilsio aikštelių su vejos danga valymas;144 Jonava–Kėdainiai–Šeduva;0;23;1000 m2;4.3;2018-06-04 00:00;NULL;144;2
+328;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;144 Jonava–Kėdainiai–Šeduva;0;23;100 m2;12;2018-06-04 00:00;NULL;144;2
+329;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;144 Jonava–Kėdainiai–Šeduva;0;23;10 m2;2.4;2018-06-04 00:00;NULL;144;2
+330;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;144 Jonava–Kėdainiai–Šeduva;0;23;1 vnt.;5;2018-06-04 00:00;NULL;144;2
+331;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;144 Jonava–Kėdainiai–Šeduva;0;23;1 vnt.;5;2018-06-04 00:00;NULL;144;2
+332;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;144 Jonava–Kėdainiai–Šeduva;0;23;10 vnt.;4;2018-06-04 00:00;NULL;144;2
+333;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;144 Jonava–Kėdainiai–Šeduva;0;23;10 vnt.;4;2018-06-04 00:00;NULL;144;2
+334;56P-1;Tualetų valymas;144 Jonava–Kėdainiai–Šeduva;0;23;1 m2;2;2018-06-04 00:00;NULL;144;2
+335;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1504 Išorai–Užusaliai–Būdos;0;5.7;100 vnt.;0.05;2018-06-04 00:00;NULL;1504;3
+336;116P-3;Šiukšlių ir sąnašų liekanų nušlavimas rankiniu būdu nuo asfalto dangų;208 Pietrytinis Utenos aplinkkelis;0;1.927;100 m2;8;2018-06-12 00:00;NULL;208;2
+337;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;1504 Išorai–Užusaliai–Būdos;0;5.7;100 m2;4;2018-06-04 00:00;NULL;1504;3
+338;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1504 Išorai–Užusaliai–Būdos;0;5.7;1 vnt.;5;2018-06-04 00:00;NULL;1504;3
+339;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;1504 Išorai–Užusaliai–Būdos;0;5.7;1 vnt.;5;2018-06-04 00:00;NULL;1504;3
+341;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;1504 Išorai–Užusaliai–Būdos;0;5.7;10 m2;0.8;2018-06-04 00:00;NULL;1504;3
+342;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1504 Išorai–Užusaliai–Būdos;0;5.7;10 m2;45;2018-06-04 00:00;NULL;1504;3
+343;12P-1;Šlaitų valymas;1504 Išorai–Užusaliai–Būdos;0;5.7;1000 m2;8;2018-06-04 00:00;NULL;1504;3
+344;12P-1;Šlaitų valymas;1919 Ramučiai–Martinava;0;3.48;1000 m2;3;2018-06-04 00:00;NULL;1919;3
+345;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1919 Ramučiai–Martinava;0;3.48;1 vnt.;4;2018-06-04 00:00;NULL;1919;3
+346;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1930 Turžėnai–Išorai;0;3.631;100 vnt.;0.03;2018-06-04 00:00;NULL;1930;3
+347;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;1930 Turžėnai–Išorai;0;3.631;100 m2;2.4;2018-06-04 00:00;NULL;1930;3
+348;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1930 Turžėnai–Išorai;0;3.631;1 vnt.;2;2018-06-04 00:00;NULL;1930;3
+349;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;1930 Turžėnai–Išorai;0;3.631;10 m2;0.8;2018-06-04 00:00;NULL;1930;3
+350;12P-1;Šlaitų valymas;1930 Turžėnai–Išorai;0;3.631;1000 m2;6;2018-06-04 00:00;NULL;1930;3
+351;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;1930 Turžėnai–Išorai;0;3.631;10 vnt.;0.5;2018-06-04 00:00;NULL;1930;3
+355;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas–Zarasai–Daugpilis;50.224;84;100 vnt.;0.04;2018-06-12 00:00;NULL;A6;1
+356;11P-16;Žolės pjovimas rankiniu budu;A12 Ryga–Šiauliai–Tauragė–Kaliningradas;0;17;10 m2;2;2018-06-01 00:00;NULL;A12;1
+358;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4742 Šklėriai–Aluona I;0;1.128;1000 m2;8.4;2018-06-11 00:00;NULL;4742;3
+359;33P-11;Žolės pjovimas kelkraščiuose;4803 Ukmergė–Siesartis–Skuoliai;0;20.371;1000 m2;48.7;2018-06-12 00:00;NULL;4803;3
+360;33P-11;Žolės pjovimas kelkraščiuose;1204 Kavarskas–Taujėnai–Vadokliai–Ramygala;11.945;23;1000 m2;27.6;2018-06-12 00:00;NULL;1204;3
+361;54P-1;Poilsio aikštelių su vejos danga valymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;1000 m2;6.6;2018-06-05 00:00;NULL;A6;1
+362;33P-11;Žolės pjovimas kelkraščiuose;4811 Kačėniškiai–Siesikai–Lokinė–Bagnapolis;21;25.534;1000 m2;8.2;2018-06-12 00:00;NULL;4811;3
+364;33P-11;Žolės pjovimas kelkraščiuose;4804 Vepriai–Deltuva–Tatkūnai;0;11.85;1000 m2;48.7;2018-06-12 00:00;NULL;4804;3
+366;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4305 Musninkai–Čiobiškis–Gelvonai–Vytinė;31.34;44.578;10 m2;52.8;2018-06-12 00:00;NULL;4305;3
+367;58P-5;Senų sulaužytų arba supuvusių suolų pakeitimas naujais;4809 Lokėnai–Vepriai–Praniukai;0;9.386;1 vnt.;2;2018-06-12 00:00;NULL;4809;3
+368;11P-6;Sąnašų pašalinimas iš šulinėlių;A6 Kaunas–Zarasai–Daugpilis;72.445;83.597;1 vnt.;6;2018-06-12 00:00;NULL;A6;1
+369;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 vnt.;0.2;2018-06-05 00:00;NULL;A6;1
+370;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 m2;16;2018-06-05 00:00;NULL;A6;1
+371;11P-6;Sąnašų pašalinimas iš šulinėlių;A6 Kaunas–Zarasai–Daugpilis;72.445;83.597;1 vnt.;6;2018-06-12 00:00;NULL;A6;1
+372;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;4742 Šklėriai–Aluona I;0;1.128;10 vnt.;0.4;2018-06-12 00:00;NULL;4742;3
+373;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-05 00:00;NULL;A6;1
+374;58P-5;Senų sulaužytų arba supuvusių suolų pakeitimas naujais;4809 Lokėnai–Vepriai–Praniukai;0;9.386;1 vnt.;2;2018-06-12 00:00;NULL;4809;3
+375;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas-Zarasai-Daugpilis;5.95;30;1 vnt.;5;2018-06-05 00:00;NULL;A6;1
+376;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A16 Vilnius–Prienai–Marijampolė;15.564;62.994;1000 m2;6;2018-06-11 00:00;NULL;A16;1
+377;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4714 Strėva–Ismonys–Rūdiškės;0;10.796;1000 m2;76.7;2018-06-12 00:00;NULL;4714;3
+378;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A16 Vilnius–Prienai–Marijampolė;15.564;62.994;10 vnt.;2.6;2018-06-11 00:00;NULL;A16;1
+379;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;145 Kėdainiai–Šėta–Ukmergė;26.767;45.136;10 vnt.;0.6;2018-06-12 00:00;NULL;145;2
+380;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A6 Kaunas-Zarasai-Daugpilis;5.95;28;10 m2;550;2018-06-05 00:00;NULL;A6;1
+381;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A16 Vilnius–Prienai–Marijampolė;15.564;62.994;100 m2;1.2;2018-06-11 00:00;NULL;A16;1
+382;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A20 Ukmergės šiaurinis aplinkkelis;0.019;7.647;1 vnt.;5;2018-06-12 00:00;NULL;A20;1
+383;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;107 Trakai–Vievis;0;17.498;1000 m2;3.8;2018-06-11 00:00;NULL;107;2
+384;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;107 Trakai–Vievis;0;3.2;1 vnt.;6;2018-06-11 00:00;NULL;107;2
+385;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;107 Trakai–Vievis;0;17.498;100 m2;2.1;2018-06-11 00:00;NULL;107;2
+386;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;4709 Trakai–Padvarionys–Semeliškės;0;19.324;1000 m2;2;2018-06-11 00:00;NULL;4709;3
+387;21P-19;Išdaužų iki 1 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant kompresorių;4709 Trakai–Padvarionys–Semeliškės;5;6;100 m2;0.005;2018-06-11 00:00;NULL;4709;3
+388;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;142 Kaišiadorys–Žiežmariai;0;4;1 vnt.;15;2018-06-11 00:00;NULL;142;2
+389;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;143 Jonava–Žasliai–Kalniniai Mijaugonys;35;38;1 vnt.;10;2018-06-11 00:00;NULL;143;2
+390;91P-10;Sausų šakų išpjovimas;1809 Kaišiadorys–Žasliai;3;7;1 medis;4;2018-06-11 00:00;NULL;1809;3
+391;115P-3;Žolės nupjovimas rankiniu būdu;143 Jonava–Žasliai–Kalniniai Mijaugonys;32;34;10 m2;200;2018-06-12 00:00;NULL;143;2
+392;KP5.7-7;Šiukšlių surinkimas iš dėžių;A14 Vilnius–Utena;10.659;39.41;10 vnt.;1.2;2018-06-11 00:00;NULL;A14;1
+393;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A14 Vilnius–Utena;23;28;10 m2;18.5;2018-06-11 00:00;NULL;A14;1
+394;33P-11;Žolės pjovimas kelkraščiuose;102 Vilnius–Švenčionys–Zarasai;16.3;22.79;1000 m2;21;2018-06-11 00:00;NULL;102;2
+395;33P-11;Žolės pjovimas kelkraščiuose;102 Vilnius–Švenčionys–Zarasai;22.79;45.93;1000 m2;32.3;2018-06-11 00:00;NULL;102;2
+396;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;108 Vievis–Maišiagala–Nemenčinė;41;24;10 m2;22;2018-06-11 00:00;NULL;108;2
+397;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;108 Vievis–Maišiagala–Nemenčinė;41;24;100 m2;11;2018-06-11 00:00;NULL;108;2
+398;11P-4;Įdubų (gilesnių kaip 10 cm) užtaisymas;5222 Sapiegiškės–Sužionys–Dirmeitai;13.2;13.3;100 m2;0.7;2018-06-11 00:00;NULL;5222;3
+399;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;A1 Vilnius-Kaunas-Klaipėda;230;235;1000 m2;40.2;2018-06-12 00:00;NULL;A1;1
+400;11P-14;Mechanizuotas žolės pjovimas;A1 Vilnius-Kaunas-Klaipėda;205;220;1 ha;4.5;2018-06-12 00:00;NULL;A1;1
+401;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;1000 m2;3;2018-06-11 00:00;NULL;5310;3
+402;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);4931 Užpaliai-Alaušai-Bajoriškiai;0;17.544;100 m2;3;2018-06-11 00:00;NULL;4931;3
+403;63P-6;Įlenktos metalinės atramos ištaisymas;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1 vnt.;2;2018-06-11 00:00;NULL;4901;3
+404;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;A1 Vilnius-Kaunas-Klaipėda;250;306.233;10 vnt.;0.2;2018-06-12 00:00;NULL;A1;1
+405;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;1000 m2;1;2018-06-11 00:00;NULL;5310;3
+406;33P-11;Žolės pjovimas kelkraščiuose;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1000 m2;40;2018-06-11 00:00;NULL;4901;3
+407;116P-1;Atsitiktinių daiktų ir akmenų, stambesnių kaip 5 cm skersmens (dangose iš žvyro), surinkimas;5310 Dusetos-Užpaliai-Vyžuonos;12.915;33.582;1000 m2;3;2018-06-12 00:00;NULL;5310;3
+408;91P-10;Sausų šakų išpjovimas;4931 Užpaliai-Alaušai-Bajoriškiai;0;17.544;1 medis;2;2018-06-12 00:00;NULL;4931;3
+409;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A1 Vilnius-Kaunas-Klaipėda;250;306.233;vnt.;2;2018-06-13 00:00;NULL;A1;1
+410;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;5310 Dusetos-Užpaliai-Vyžuonos;24;33.582;10 vnt.;4.2;2018-06-12 00:00;NULL;5310;3
+411;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;4901 Utena-Sudeikiai-Alaušai-Dusetos;1.7;11.1;1000 m2;1;2018-06-12 00:00;NULL;4901;3
+412;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);A11 Šiauliai–Palanga;2.65;22;100 m2;2.6;2018-06-12 00:00;NULL;A11;1
+413;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;A11 Šiauliai–Palanga;2.65;22;1000 m2;46;2018-06-12 00:00;NULL;A11;1
+414;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;5014 Varėna–Rudnia–Paramėlis–Katra;0.7;31.098;1000 m2;110;2018-06-12 00:00;Darbai atlikti;5014;3
+415;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;5020 Krokšlys–Lynežeris;0;4.828;1000 m2;28.8;2018-06-12 00:00;Darbai atlikti;5020;3
+416;22P-3;Išdaužų iki 100 mm gylio užlyginimas autogreideriu, nepridedant naujų medžiagų;4008 Kuršėnai–Švendriai–Raudėnai;1.454;16.436;100 m2;180;2018-06-12 00:00;NULL;4008;3
+417;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4008 Kuršėnai–Švendriai–Raudėnai;1.454;16.436;1000 m2;68;2018-06-12 00:00;NULL;4008;3
+418;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A11 Šiauliai–Palanga;22;43.637;1 vnt.;5;2018-06-12 00:00;NULL;A11;1
+419;11P-16;Žolės pjovimas rankiniu budu;218 Kretinga–Skuodas;15;28;10 m2;15;2018-06-12 00:00;NULL;218;2
+420;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;108 Vievis–Maišiagala–Nemenčinė;0;11.272;1000 m2;1.2;2018-06-11 00:00;NULL;108;2
+421;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;108 Vievis–Maišiagala–Nemenčinė;0;11.272;10 vnt.;1.6;2018-06-11 00:00;NULL;108;2
+422;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;155 Kuršėnai–Mažeikiai;0.9;15.24;1 vnt.;4;2018-06-12 00:00;NULL;155;2
+423;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;155 Kuršėnai–Mažeikiai;0.9;15.24;10 vnt.;12;2018-06-12 00:00;NULL;155;2
+424;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;4736 Vievininkai–Rusakalnis–Daugirdiškės II;0;14.697;10 vnt.;1.4;2018-06-11 00:00;NULL;4736;3
+425;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;4736 Vievininkai–Rusakalnis–Daugirdiškės II;0;14.697;1 vnt.;7;2018-06-11 00:00;NULL;4736;3
+426;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;A6 Kaunas-Zarasai-Daugpilis;5.95;25;10 m2;5.6;2018-06-05 00:00;NULL;A6;1
+427;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;170 Mažeikiai–Skuodas;25.59;35;10 m2;25;2018-06-12 00:00;NULL;170;2
+428;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;A11 Šiauliai–Palanga;2.65;22;1000 m2;0.05;2018-06-12 00:00;NULL;A11;1
+429;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3706 Ylakiai–Raudoniai–Barstyčiai;0;12.31;1000 m2;98;2018-06-12 00:00;NULL;3706;3
+430;11P-14;Mechanizuotas žolės pjovimas;1011 Papilė–Gumbakiai–Švendriai;0;3.481;1 ha;1.39;2018-06-12 00:00;NULL;1011;3
+431;32P-3;Kelkraščio profiliavimas autogreideriu;A6 Kaunas-Zarasai-Daugpilis;28;30;1 km pravaž.;10.8;2018-06-05 00:00;NULL;A6;1
+432;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1009 Viekšniai–Stočkai–Pievėnai;0;10.901;10 m2;52.6;2018-06-12 00:00;NULL;1009;3
+433;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1012 Kapėnai–Tučiai I–Boguslavas;0;5.738;10 m2;36.2;2018-06-12 00:00;NULL;1012;3
+434;54P-1;Poilsio aikštelių su vejos danga valymas;232 Vilijampolė–Žeimiai–Šėta;14.38;32.05;1000 m2;1.9;2018-06-05 00:00;NULL;232;2
+435;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;A16 Vilnius–Prienai–Marijampolė;27.07;42;1000 m2;89.58;2018-06-11 00:00;NULL;A16;1
+436;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1017 Boguslavas–Tučiai II;0;5.558;10 m2;24.4;2018-06-12 00:00;NULL;1017;3
+437;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;232 Vilijampolė–Žeimiai–Šėta;14.38;32.05;100 vnt.;0.2;2018-06-05 00:00;NULL;232;2
+438;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;2716 Tirkšliai–Užlieknė–Viekšniai;10.667;11.581;10 m2;22.4;2018-06-12 00:00;NULL;2716;3
+439;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;232 Vilijampolė–Žeimiai–Šėta;32.05;48.674;100 m2;16;2018-06-05 00:00;NULL;232;2
+440;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1009 Viekšniai–Stočkai–Pievėnai;0;10.901;1 vnt.;4;2018-06-12 00:00;NULL;1009;3
+441;51P-2;Purvo ir žolės pašalinimas;218 Kretinga–Skuodas;18;28;100 m2;0.3;2018-06-12 00:00;NULL;218;2
+442;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1012 Kapėnai–Tučiai I–Boguslavas;0;5.738;1 vnt.;2;2018-06-12 00:00;NULL;1012;3
+443;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;232 Vilijampolė–Žeimiai–Šėta;14.38;48;1 vnt.;6;2018-06-05 00:00;NULL;232;2
+444;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;232 Vilijampolė–Žeimiai–Šėta;14.38;48;1 vnt.;6;2018-06-05 00:00;NULL;232;2
+445;56P-1;Tualetų valymas;232 Vilijampolė–Žeimiai–Šėta;14.38;28;1 m2;4;2018-06-05 00:00;NULL;232;2
+446;11P-16;Žolės pjovimas rankiniu budu;2305 Salantai–Grūšlaukė–Benaičiai;11;15;10 m2;5;2018-06-12 00:00;NULL;2305;3
+447;11P-16;Žolės pjovimas rankiniu budu;2310 Darbėnai–Laukžemė–Senoji Įpiltis;0;14.226;10 m2;6;2018-06-12 00:00;NULL;2310;3
+448;11P-16;Žolės pjovimas rankiniu budu;2304 Darbėnai–Šventoji;10;11.561;10 m2;5;2018-06-12 00:00;NULL;2304;3
+449;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;3706 Ylakiai–Raudoniai–Barstyčiai;0;12.31;1000 m2;98;2018-06-12 00:00;Sugreideriota;3706;3
+450;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;218 Kretinga–Skuodas;0;28;10 vnt.;0.6;2018-06-12 00:00;NULL;218;2
+451;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;2310 Darbėnai–Laukžemė–Senoji Įpiltis;0;14.226;1 vnt.;3;2018-06-12 00:00;NULL;2310;3
+452;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;218 Kretinga–Skuodas;0;28;100 vnt.;0.03;2018-06-12 00:00;NULL;218;2
+453;32P-3;Kelkraščio profiliavimas autogreideriu;232 Vilijampolė–Žeimiai–Šėta;14.38;23;1 km pravaž.;32;2018-06-05 00:00;NULL;232;2
+454;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;2308 Kretinga–Rūdaičiai–Žibininkai;0;10.019;100 m2;0.3;2018-06-11 00:00;NULL;2308;3
+455;21P-1;Dangos valymas mechanizuotu būdu;232 Vilijampolė–Žeimiai–Šėta;32.05;48.674;100 m2;10;2018-06-05 00:00;NULL;232;2
+456;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;2218 Kretingalė–Bruzdeilynas;0.58;5.774;1000 m2;35;2018-06-13 00:00;NULL;2218;3
+457;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;232 Vilijampolė–Žeimiai–Šėta;32.05;48.674;10 vnt.;5;2018-06-05 00:00;NULL;232;2
+458;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;232 Vilijampolė–Žeimiai–Šėta;14.38;46;10 vnt.;5;2018-06-05 00:00;NULL;232;2
+459;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A13 Klaipėda–Liepoja;0;24.393;1000 m2;0.5;2018-06-12 00:00;Šiukšlių rinkimas skiriamojoje juostoje.;A13;1
+460;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;100 vnt.;0.08;2018-06-05 00:00;NULL;1915;3
+461;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;A13 Klaipėda–Liepoja;0;24.393;10 vnt.;1.5;2018-06-12 00:00;NULL;A13;1
+462;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;107 Trakai–Vievis;0;17.498;1000 m2;8.9;2018-06-11 00:00;NULL;107;2
+463;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;A13 Klaipėda–Liepoja;0;24.393;10 vnt.;1;2018-06-12 00:00;NULL;A13;1
+464;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;10 vnt.;1;2018-06-05 00:00;NULL;1915;3
+465;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;1 vnt.;6;2018-06-05 00:00;NULL;1915;3
+466;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;108 Vievis–Maišiagala–Nemenčinė;0;11.272;1000 m2;3.5;2018-06-11 00:00;NULL;108;2
+467;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;100 m2;6.4;2018-06-05 00:00;NULL;1915;3
+468;33P-11;Žolės pjovimas kelkraščiuose;A13 Klaipėda–Liepoja;32.918;43.834;1000 m2;16;2018-06-12 00:00;NULL;A13;1
+469;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;1915 Vandžiogala–Preišiogalėlė–Jonava;10;12.97;1000 m2;23.2;2018-06-05 00:00;NULL;1915;3
+470;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;A13 Klaipėda–Liepoja;32.918;43.834;1000 m2;16;2018-06-12 00:00;Žolės pjovimas mechanizuotai šlaituose.;A13;1
+471;12P-1;Šlaitų valymas;1915 Vandžiogala–Preišiogalėlė–Jonava;12.97;22.753;1000 m2;6;2018-06-05 00:00;NULL;1915;3
+472;11P-16;Žolės pjovimas rankiniu budu;A13 Klaipėda–Liepoja;0;24.393;10 m2;400;2018-06-12 00:00;NULL;A13;1
+473;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;107 Trakai–Vievis;0;17.498;1000 m2;2.8;2018-06-12 00:00;NULL;107;2
+474;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);107 Trakai–Vievis;3;4.1;100 m2;0.9;2018-06-12 00:00;NULL;107;2
+475;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A13 Klaipėda–Liepoja;0;24.393;1 vnt.;4;2018-06-12 00:00;NULL;A13;1
+476;54P-1;Poilsio aikštelių su vejos danga valymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;1000 m2;6.5;2018-06-06 00:00;NULL;A6;1
+477;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 vnt.;0.15;2018-06-06 00:00;NULL;A6;1
+478;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas-Zarasai-Daugpilis;5.95;29;1 vnt.;5;2018-06-06 00:00;NULL;A6;1
+479;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;1 vnt.;5;2018-06-06 00:00;NULL;A6;1
+480;18K-80;Kelio ženklų skydų montavimas prie vienstiebių atramų rankiniu būdu;4710 Elektrėnai–Pastrėvys–Strėvininkai;0;2;vnt.;6;2018-06-12 00:00;NULL;4710;3
+481;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;2222 Vėžaičiai–Mikoliškiai–Kartena;9.405;15;1000 m2;42;2018-06-11 00:00;NULL;2222;3
+482;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;2222 Vėžaičiai–Mikoliškiai–Kartena;15;24.167;1000 m2;63;2018-06-12 00:00;NULL;2222;3
+483;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;4710 Elektrėnai–Pastrėvys–Strėvininkai;0;5.59;1 vnt.;7;2018-06-12 00:00;NULL;4710;3
+484;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;2306 Kūlupėnai–Darbėnai;1;8;1000 m2;49;2018-06-12 00:00;NULL;2306;3
+485;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;2306 Kūlupėnai–Darbėnai;8;12;1000 m2;28;2018-06-13 00:00;NULL;2306;3
+486;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;A6 Kaunas-Zarasai-Daugpilis;5.95;28;10 m2;562.8;2018-06-06 00:00;NULL;A6;1
+487;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 m2;12;2018-06-06 00:00;NULL;A6;1
+488;11P-14;Mechanizuotas žolės pjovimas;2304 Darbėnai–Šventoji;10;11.561;1 ha;12;2018-06-12 00:00;NULL;2304;3
+489;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4734 Moniai–Bagdanonys–Strėva;4;7.909;1000 m2;32.1;2018-06-13 00:00;NULL;4734;3
+490;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A6 Kaunas-Zarasai-Daugpilis;5.95;28;1000 m2;9;2018-06-06 00:00;NULL;A6;1
+491;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;A6 Kaunas-Zarasai-Daugpilis;5.95;28;10 m2;4;2018-06-06 00:00;NULL;A6;1
+492;11P-14;Mechanizuotas žolės pjovimas;218 Kretinga–Skuodas;0;8;1 ha;24;2018-06-12 00:00;NULL;218;2
+493;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;4723 Žaizdriai–Salkininkai;0;7.907;1000 m2;1.4;2018-06-12 00:00;NULL;4723;3
+494;81P-1;Sijinių ir parapetinių atitvarų valymas;A6 Kaunas-Zarasai-Daugpilis;11;12;100 m;5;2018-06-06 00:00;NULL;A6;1
+495;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;4723 Žaizdriai–Salkininkai;0;7.907;100 m2;1.2;2018-06-12 00:00;NULL;4723;3
+496;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;4723 Žaizdriai–Salkininkai;0;7.907;10 vnt.;0.8;2018-06-12 00:00;NULL;4723;3
+497;11P-14;Mechanizuotas žolės pjovimas;A6 Kaunas-Zarasai-Daugpilis;14.38;28;1 ha;5.6;2018-06-06 00:00;NULL;A6;1
+498;11P-16;Žolės pjovimas rankiniu budu;A6 Kaunas-Zarasai-Daugpilis;14.38;18;10 m2;470;2018-06-06 00:00;NULL;A6;1
+499;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;4727 Trakai–Lentvaris–Mūrinė Vokė;0;8.605;100 m2;1.2;2018-06-12 00:00;NULL;4727;3
+500;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1508 Aleksandrinė–Šveicarija;0;1.526;1 vnt.;4;2018-06-06 00:00;NULL;1508;3
+501;12P-1;Šlaitų valymas;1508 Aleksandrinė–Šveicarija;0;1.526;1000 m2;2.4;2018-06-06 00:00;NULL;1508;3
+502;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;232 Vilijampolė–Žeimiai–Šėta;32.05;48.674;1000 m2;30;2018-06-06 00:00;NULL;232;2
+503;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;4727 Trakai–Lentvaris–Mūrinė Vokė;5;8.605;1 vnt.;6;2018-06-12 00:00;NULL;4727;3
+504;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;4707 Grigiškės–Lentvaris–Dobrovolė;0.912;6.376;1000 m2;1.4;2018-06-12 00:00;NULL;4707;3
+505;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;232 Vilijampolė–Žeimiai–Šėta;14.38;32.05;100 m2;80;2018-06-06 00:00;NULL;232;2
+506;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;A16 Vilnius–Prienai–Marijampolė;42;55.1;1000 m2;88.6;2018-06-12 00:00;NULL;A16;1
+507;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;4717 Vievis–Kazokiškės–Paparčiai–Žąsliai;0;7;1000 m2;2.8;2018-06-12 00:00;NULL;4717;3
+508;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1510 Juljanava–Barsukinė–Skrynės;0;12.401;1 vnt.;6;2018-06-06 00:00;NULL;1510;3
+509;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;1510 Juljanava–Barsukinė–Skrynės;0;12.401;1 vnt.;6;2018-06-06 00:00;NULL;1510;3
+510;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1510 Juljanava–Barsukinė–Skrynės;0;12.401;100 vnt.;0.03;2018-06-06 00:00;NULL;1510;3
+511;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;107 Trakai–Vievis;0;14;1000 m2;1.2;2018-06-12 00:00;NULL;107;2
+512;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;1510 Juljanava–Barsukinė–Skrynės;0;12.401;100 m2;30;2018-06-06 00:00;NULL;1510;3
+513;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;1510 Juljanava–Barsukinė–Skrynės;0;12.401;10 vnt.;0.7;2018-06-06 00:00;NULL;1510;3
+514;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;1510 Juljanava–Barsukinė–Skrynės;0;12.401;1000 m2;101.1;2018-06-06 00:00;NULL;1510;3
+515;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1511 Martiniškis–Naujasodis–Liepkalnis;0;7.172;1 vnt.;4;2018-06-06 00:00;NULL;1511;3
+516;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;1511 Martiniškis–Naujasodis–Liepkalnis;0;7.172;100 vnt.;0.03;2018-06-06 00:00;NULL;1511;3
+517;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;1511 Martiniškis–Naujasodis–Liepkalnis;0;7.172;100 m2;2.4;2018-06-06 00:00;NULL;1511;3
+518;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;1511 Martiniškis–Naujasodis–Liepkalnis;0;7.172;1000 m2;44;2018-06-06 00:00;NULL;1511;3
+519;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1516 Ragožiai–Čiūdai–Kulva;0;5.29;1 vnt.;5;2018-06-06 00:00;NULL;1516;3
+520;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;1516 Ragožiai–Čiūdai–Kulva;0;5.29;100 m2;30;2018-06-06 00:00;NULL;1516;3
+521;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;144 Jonava–Kėdainiai–Šeduva;13;23;100 m2;20;2018-06-06 00:00;NULL;144;2
+522;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;4731 Grigiškės–Dėdeliškės–Rykantai;2.7;9.087;1000 m2;51.04;2018-06-12 00:00;NULL;4731;3
+523;11P-14;Mechanizuotas žolės pjovimas;111 Utena-Kaltanėnai-Švenčionys;28.212;43.348;1000 m2;14;2018-06-13 00:00;NULL;111;2
+524;11P-14;Mechanizuotas žolės pjovimas;1402 Linkmenys-Šakarva;0;5.597;1000 m2;15;2018-06-13 00:00;NULL;1402;3
+525;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;1404 Kazokinė-Ceikiniai-Mielagėnai;0;18.02;10 m2;20;2018-06-13 00:00;Apie signalinius ir kelio ženklus.;1404;3
+526;64P-15;Sunaikinto (pavogto) kelio ženklo skydo, kurio kraštinės ilgis iki vieno metro, atstatymas;1404 Kazokinė-Ceikiniai-Mielagėnai;16.7;16.9;1 vnt.;4;2018-06-13 00:00;NULL;1404;3
+527;21P-19;Išdaužų iki 1 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant kompresorių;1413 Paringys-Rubelninkai-Budriškė;5;5.2;100 m2;0.007;2018-06-13 00:00;NULL;1413;3
+528;63P-10;Sulaužytų arba deformuotų metalinių atramų pakeitimas;1404 Kazokinė-Ceikiniai-Mielagėnai;16.7;16.9;1 vnt.;2;2018-06-13 00:00;NULL;1404;3
+529;54P-1;Poilsio aikštelių su vejos danga valymas;A6 Kaunas-Zarasai-Daugpilis;5.95;26;1000 m2;6.6;2018-06-07 00:00;NULL;A6;1
+530;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;A6 Kaunas-Zarasai-Daugpilis;5.95;29;100 vnt.;0.11;2018-06-07 00:00;NULL;A6;1
+531;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;A6 Kaunas-Zarasai-Daugpilis;5.95;29;1 vnt.;6;2018-06-07 00:00;NULL;A6;1
+532;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;138 Vilkaviškis–Kudirkos Naumiestis–Šakiai;18.437;44.237;10 vnt.;0.4;2018-06-11 00:00;NULL;138;2
+533;11P-16;Žolės pjovimas rankiniu budu;A6 Kaunas-Zarasai-Daugpilis;14.38;18;10 m2;470;2018-06-07 00:00;NULL;A6;1
+534;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;A6 Kaunas-Zarasai-Daugpilis;5.95;28;10 m2;4;2018-06-13 00:00;NULL;A6;1
+535;11P-1;Skiriamosios juostos valymas;A6 Kaunas-Zarasai-Daugpilis;14.38;28;1000 m2;8;2018-06-07 00:00;NULL;A6;1
+536;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;184 Kiduliai–Ramoniškiai;0;13.315;10 vnt.;0.2;2018-06-11 00:00;NULL;184;2
+537;510P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, sudėjimas į maišus, pakrovimas ir išvežimas;A6 Kaunas-Zarasai-Daugpilis;14.38;28;100 kg;0.5;2018-06-07 00:00;NULL;A6;1
+538;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);A6 Kaunas-Zarasai-Daugpilis;27;28;100 m2;2;2018-06-07 00:00;NULL;A6;1
+539;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;A6 Kaunas-Zarasai-Daugpilis;25;27;1000 m2;4;2018-06-07 00:00;NULL;A6;1
+540;11P-16;Žolės pjovimas rankiniu budu;6027001 A06_035.510_1 (A6 ir 1521 kelių sankr.);16;25;10 m2;550;2018-06-07 00:00;NULL;6027001;4
+541;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;3819 Kirmiškiai–Turčinai;0;6.694;1000 m2;36;2018-06-12 00:00;NULL;3819;3
+542;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;3808 Slavikai–Sudargas;0;12.377;10 m2;80;2018-06-12 00:00;NULL;3808;3
+543;54P-1;Poilsio aikštelių su vejos danga valymas;144 Jonava–Kėdainiai–Šeduva;18;18;1000 m2;4.3;2018-06-07 00:00;NULL;144;2
+544;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;144 Jonava–Kėdainiai–Šeduva;0;23;100 vnt.;0.15;2018-06-07 00:00;NULL;144;2
+545;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;144 Jonava–Kėdainiai–Šeduva;0;23;1 vnt.;6;2018-06-07 00:00;NULL;144;2
+546;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;144 Jonava–Kėdainiai–Šeduva;0;23;10 m2;2.4;2018-06-07 00:00;NULL;144;2
+547;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;144 Jonava–Kėdainiai–Šeduva;0;23;100 m2;12;2018-06-07 00:00;NULL;144;2
+548;21P-1;Dangos valymas mechanizuotu būdu;137 Pilviškiai–Šakiai–Jurbarkas;31;56.04;100 m2;300;2018-06-13 00:00;NULL;137;2
+549;91P-11;Senų medžių pašalinimas;144 Jonava–Kėdainiai–Šeduva;14;15;1 medis;1;2018-06-07 00:00;NULL;144;2
+550;12P-1;Šlaitų valymas;144 Jonava–Kėdainiai–Šeduva;0;23;1000 m2;8;2018-06-07 00:00;NULL;144;2
+551;21P-1;Dangos valymas mechanizuotu būdu;184 Kiduliai–Ramoniškiai;0;13.315;100 m2;350;2018-06-13 00:00;NULL;184;2
+552;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;5207 Nemenčinė–Eitminiškės–Paberžė;15.5;19.223;1000 m2;26.86;2018-06-12 00:00;NULL;5207;3
+553;56P-1;Tualetų valymas;144 Jonava–Kėdainiai–Šeduva;18;18;1 m2;2;2018-06-07 00:00;NULL;144;2
+554;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;144 Jonava–Kėdainiai–Šeduva;0;23;10 vnt.;3;2018-06-07 00:00;NULL;144;2
+555;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;144 Jonava–Kėdainiai–Šeduva;0;23;10 vnt.;3;2018-06-07 00:00;NULL;144;2

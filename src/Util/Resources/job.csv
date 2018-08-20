@@ -1,0 +1,725 @@
+﻿id;job_id;job_name;job_quantity
+1;11P-1;Skiriamosios juostos valymas;1000 m2
+2;11P-2;Provėžų užtaisymas, naudojant esamą velėną;100 m2
+3;11P-3;Įdubų (iki 10 cm gylio) užtaisymas;100 m2
+4;11P-4;Įdubų (gilesnių kaip 10 cm) užtaisymas;100 m2
+5;11P-5;Susikaupusio grunto pašalinimas ir vėjos atstatymas;100 m2
+6;11P-6;Sąnašų pašalinimas iš šulinėlių;1 vnt.
+7;11P-7;Drenažo vamzdžių išvalymas mechaniniu būdu;10 m
+8;11P-8;Sąnašų iš drenažo vamzdžių išvalymas hidrauliniu būdu;10 m
+9;11P-9;Sąnašų iš drenažo vamzdžių išvalymas pneumatiniu būdu;10 m
+10;11P-10;Drenažo remontas, kasant duobes ekskavatoriumi, pakeičiant vamzdžius rankiniu būdu;10
+11;11P-11;Sugniuždyutų (sulaužytų) šulinėlių pakeitimas;1 vnt.
+12;11P-12;Betono plyšių iki 10 mm pločio užtaisymas šulinėlių elementuose;1 m
+13;11P-13;Platesnių kaip-10 mm plyšių, kitų pažaidų užtaisymas;1 m2
+14;11P-14;Mechanizuotas žolės pjovimas;1 ha
+15;11P-15;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;10 m2
+16;11P-16;Žolės pjovimas rankiniu budu;10 m2
+17;11P-17;Sniego volų sustūmimas į įgaubtos skiriamosios juostos vidurį (iš abiejų juostos pusių);1 km juostos
+18;11P-18;Vandens nuleidimo sistemos paruošimas polaidžiui (įgaubtoje skiriamojoje juostoje);1 m3
+19;11P-19;Sniego volų iš išgaubtos skiriamosios juostos perstūmimas į kelkraščius;1 km juostos
+20;12P-1;Šlaitų valymas;1000 m2
+21;12P-2;Nuošliaužų sutvarkymas ir išplovų pylimų šlaituose užpylimas gruntu;1 m3
+22;12P-3;Išplovų iškasų škaituose užpylimas gruntu;1 m3
+23;12P-4;Sutvirtinimo pažaidų pašalinimas šlaituose, užpilant jas dirvožemio sluoksniu h=10 cm ir užsėjant žole;100 m2
+24;12P-5;Šalitų sutvirtinimo pažaidų pašalinimas, užsodinant krūmais erozinius plotus;10 vnt.
+25;12P-6;Y tipo atvirų drenažinių griovelių įrengimas dažnai išplaunamose vietose;1 m
+26;12P-7;Krūmų iškirtimas žemės sankasos šlaituose rankiniu būdu;100 m2
+27;12P-8;Krūmų kirtimas žemės sankasos šlaituose mechanizuotu būdu;100 m2
+28;12P-9;Nukirstų krūmų susmulkinimas;1 m3
+29;12P-10;Žolės pjovimas mechanizuotu ir rankiniu būdu;1000 m2
+30;13P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš griovių;100 m2
+31;13P-2;Griovio profilio atstatymas naudojant autogreiderį;1 km griovio
+32;13P-3;Užslinkusio griovio atstatymas (kasimas) autogreideriu II grupės grunte ir iškasto grunto išlyginimas;100 m3
+33;13P-4;Užslinkusio griovio išvalymas mechanizuotu būdu;100 m3
+34;13P-5;Griovio profilio atstatymas rankiniu būdu;1 m3
+35;13P-6;Dalinis griovio profilio atstatymas rankiniu būdu;10 m
+36;13P-7;Rezervų išlyginimas ir sutvirtinimo atstatymas;100 m2
+37;13P-8;Griovio šlaitų sutvirtinimų atstatymas, atvežant dirvožemį ir užsėjant žole;100 m2
+38;13P-9;Griovio šlaitų sutvirtinimo pažaidų pašalinimas, velėnuojant langeliais ir juos užpildant stambia skalda;100 m2
+39;13P-10;Griovio dugno sankirtos su šlaitu sutvirtinimas, išpinant žabų tvorelę;10 m
+40;13P-11;Griovio dugno sutvirtinimo atstatymas, įspaudžiant dolomito skaldą į gruntą;10 m2
+41;13P-12;Griovio dugno iš betoninių plytelių sutvirtinimo pažaidų pašalinimas;10 m2
+42;13P-13;Krūmų iškirtimas grioviuose rankiniu būdu;100 m2
+43;13P-14;Krūmų iškirtimas grioviuose mechanizuotai;100 m2
+44;13P-15;Krūmų iškirtimas grioviuose, naudojant mažosios mechanizacijos priemones;100 m2
+45;13P-16;Žolės pjovimas mechanizuotu ir rankiniu būdu;1000 m2
+46;13P-17;Sniego ir ledo pašalinimas iš atkalnės griovių prieš polaidį, išilginių griovelių prakasimas šoniniuose grioviuose;1 m3
+47;13P-18;Vandens sankaupų stebėjimas ir skubus kliūčių šalinimas polaidžio metu;1 m3
+48;14P-1;Šalikelių valymas, surenkant šiukšles ir atsitiktinius daiktus;1000 m2
+49;14P-2;Krūmų iškirtimas rankiniu/mechanizuotu būdu;
+50;14P-3;Žolės pjovimas mechanizuotu ir rankiniu būdu;1000 m2
+51;14P-4;Išplovų ir įdubų užpylimas bei sutvirtinimas, užsėjant žole;1 m3
+52;21P-1;Dangos valymas mechanizuotu būdu;100 m2
+53;21P-2;Užterštų dangos plotų valymas rankiniu būdu (plotai, kurių negalima valyti mechanizuotu būdu);100 m2
+54;21P-3;Dangos valymas, nuplaunant mechanizuotu būdu;100 m2
+55;21P-4;Išdaužų iki 1 m2 ploto užtaisymas;100 m2
+56;21P-5;Išdaužų iki 1 m2  ploto užtaisymas;100 m2
+57;21P-6;Išdaužų iki 5 m2  ploto užtaisymas;100 m2
+58;21P-7;Išdaužų iki 5 m2 ploto užtaisymas;100 m2
+59;21P-8;Išdaužų iki 10 m2 ploto užtaisymas;100 m2
+60;21P-9;Išdaužų iki 10 m2  ploto užtaisymas;100 m2
+61;21P-10;Išdaužų iki 1 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza be pakrovimo;100 m2
+62;21P-11;Išdaužų iki 5 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza be pakrovimo;100 m2
+63;21P-12;Išdaužų iki 10 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza be pakrovimo;100 m2
+64;21P-13;Išdaužų iki 1 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza su pakrovimu;100 m2
+65;21P-14;Išdaužų iki 5 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza su pakrovimu;100 m2
+66;21P-15;Išdaužų iki 10 m2 ploto užtaisymas, nufrezuojant suirusią dangą freza su pakrovimu;100 m2
+67;21P-16;Asfalto dangų sutaisytų paviršių dalinis apdorojimas;100 m2
+68;21P-17;Asfalto dangų sutaisytų paviršių dalinis apdorojimas;100 m2
+69;21P-18;Asfalto dangų, kai paviršius supleišėjęs, su išdaužomos, atnaujinimas, pakaitinant suirusios dangos plotą ir pridedant iki 50 % naujo asfaltbetonio mišinio rankiniu būdu;100 m2
+70;21P-19;Išdaužų iki 1 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant kompresorių;100 m2
+71;21P-20;Išdaužų iki 5 m2 ploto užtaisymas šaltaisiai mišiniais, duobės paruošimui naudojant kompresorių;100 m2
+72;21P-21;Išdaužų iki 10 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant kompresorių;100 m2
+73;21P-22;Išdaužų iki 1 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant frezas;100 m2
+74;21P-23;Išdaužų iki 5 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant frezas;100 m2
+75;21P-24;Išdaužų iki 10 m2 ploto užtaisymas šaltaisiais mišiniais, duobės paruošimui naudojant frezas;100 m2
+76;21P-25;Išdaužų užtaisymas betono mišiniu;100 m2
+77;21P-26;Išdaužų užtaisymas smulkiagrūdžiu betono mišiniu;100 m2
+78;21P-27;Išdaužų užtaisymas betono dangose polimerbetonio mišiniu;100 m2
+79;21P-28;Negilių išdaužų užtaisymas Fibrescreed sistemos medžiagomis;100 m2
+80;21P-29;Išdaužų iki 5 m2 ploto užtaisymas betono dangose asfaltbetonio mišiniais;100 m2
+81;21P-30;Nutrupėjusių dangos kraštų užtaisymas, duobės paruošimui naudojant kompresorių;100 m2
+82;21P-31;Nutrupėjusių dangos kraštų užtaisymas, duobės paruošimui naudojant frezą;100 m2
+83;21P-32;Deformacinių pjūvių užtaisymas betono dangose, užpildant juos mastika;100 m
+84;21P-33;Deformacinių pjūvių su nutrupėjusiomis briaunomis sutvarkymas;100 m
+85;21P-34;Siūlių pjaustymas betono dangose, paruošiant pašalinimui iškylotas plokštes;100 m
+86;21P-35;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant bitumu rankiniu būdu, kai bitumas pašildomas darbo vietoje;100 m
+87;21P-36;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant bitumu rankiniu būdu, kai pašildytas bitumas pristatomas autogudronatoriumi;100 m
+88;21P-37;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, užpilant juos modifikuotos emulsijos ir kvarcinio smėlio mišiniu;100 m
+89;21P-38;Plyšių iki 10 mm pločio užtaisymas asfalto dangose, išfrezuojant plyšį ir užpilant bitumu rankiniu būdu;100 m
+90;21P-39;Plyšių nuo 10 iki 19 mm pločio užtaisymas, užpilant mastika;100 m
+91;21P-40;Plyšių nuo 10 iki 19 mm pločio užtaisymas, naudojant bitumą ir S rūšies atsijas;100 m
+92;21P-41;Plyšių, platesnių kaip 19 mm ir iki 50 mm pločio, užtaisymas, 2/3 plyšio gylio užpildant mastika, 1/3 plyšio gylio-šaltuoju  asfaltbetoniu;100 m
+93;21P-42;Plyšių, platesnių kaip 19 mm ir iki 50 mm pločio, užtaisymas betono dangose smulkiagrūdžio betono mišiniu;100 m
+94;21P-43;Plyšių iki 19 mm pločio išfrezavimas;100 m
+95;21P-44;Plyšių tinklo užtaisymas, palaistant emulsija ir apdorojant paviršių;100 m2
+96;21P-45;Smulkių plyšių (iki 5 mm) tinklo užtaisymas palaistymo būdu;100 m2
+97;21P-46;Bangų ir slinkčių ištaisymas, pakaitinant deformuotą dangos plotą ir įspaudžiant skaldelę;100 m2
+98;21P-47;Bangų ir slinkčių ištaisymas, nuskutant jas autogreideriu, užberiant skaldele ir ją įspaudžiant plentvoliu;100 m2
+99;21P-48;Provėžų ištaisymas, jas išfrezuojant ir užklojant asfaltbetonio mišinį;100 m2
+100;21P-49;Pradėjusių lukštentis paviršių sutvirtinimas;100 m2
+101;21P-50;Išsilukštenusio paviršiaus užliejimas polimeriniu modifikuoto bitumo su stabilizuojančiais priedais mišiniu 20 mm storio sluoksniu;100 m2
+102;21P-51;Išsilukštenusio paviršiaus sutvirtinimas, apdorojant bitumu ir juoda skaldele;100 m2
+103;21P-52;Asfalto dangų atnaujinimas karštuoju būdu, pridedant naujo asfaltbetonio mišinio;100 m2
+104;21P-53;Asfalto dangų nufrezavimas;100 m2
+105;21P-54;Išsilukštenusių paviršių sutvirtinimas betono dangose, įrengiant 30 mm storio sluoksnį iš polimerbetonio mišinio;100 m2
+106;21P-55;Išsilukštenusių paviršių sutvirtinimas betono dangose torkretavimo būdu;100 m2
+107;21P-56;Asfalto dangos paviršiaus viengubas apdorojimas bitumu su juoda granito skaldele 8/11;100 m2
+108;21P-57;Dangos paviršiaus su išplaukusiomis bitumo dėmėmis užbarstymas atsijomis rankiniu būdu;100 m2
+109;21P-58;Dangos paviršiaus su išplaukusiomis bitumo dėmėmis užbarstymas atsijomis mechanizuotu būdu;100 m2
+110;21P-59;Šiurkštumo padidinimas betono dangose, jas viengubai apdorojant bitumu su dvigubu skaldelės užbarstymu;100 m2
+111;21P-60;Dangos ruožų su iškylomis priežiūra, atšylant žemės sankasai;100 m2
+112;21P-61;Įdubų ir nelygumų ištaisymas, užklojant klotuvu naują asfalto sluoksnį;100 m2
+113;21P-63;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+114;21P-64;Šlapios druskos paskleidimas, kai skleidimo norma iki 40 kg/1000 m2;1000 m2
+115;21P-65;Druskų ir smėlio mišinio barstymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+116;21P-62;Dangos nusidėvėjimo atstatymas, užklojant du sluoksnius šlamo mišinio;100 m2
+117;21P-66;Druskų ir frikcinių medžiagų mišinio barstymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+118;21P-67;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+119;21P-68;Slidumų mažinimas, ilgai intensyviai sningant ir arba pustant;1000 m2
+120;21P-69;Sniego volų pašalinimas rotoriniais sniego valytuvais;1000 m2
+121;21P-70;Puraus sniego valymas traktoriniais sniego valytuvais;1000 m2
+122;21P-71;Sniego valymas automobiliniu sniego valytuvu, kai sniego sluoksnis storesnis kaip 10 cm;1000 m2
+123;21P-72;Puraus sniego valymas autogreideriais;1000 m2
+124;21P-73;Sutankintos sniego dangos pašalinimas;1000 m2
+125;21P-74;Užpustytų ruožų išvalymas;1000 m2
+126;21P-75;Sniego tranšėjų iškasimas buldozeriu, kai sniego danga storesnė kaip 0,50 m;1 km tranšėjos
+127;21P-76;Sniego tranšėjų įrengimas, sustumiant sniego volus iš abiejų pusių buldozeriu, kai sniego danga plonesnė kaip 50 cm;1 km tranšėjos
+128;21P-77;Sniego tranšėjų išvalymas buldozeriu, pravažiuojant ta pačia vieta du kartus;1 km tranšėjos
+129;21P-78;Druskų ir frikcinių medžiagų mišinio išbėrimas rankiniu būdu trumpuose kelio ruožuose (dažno stabdymo vietose);100 m2
+130;21P-79;Apledėjusių dangų pašiurkštinimas, padarant prorėžas autogreideriu;1000 m2
+131;22P-1;Žvyro, žvyro-skaldos dangų valymas, surenkant šiukšles, akmenis;100 m2
+132;22P-2;Purvo nuvalymas nuo dangos autogreideriu;1000 m2
+133;22P-3;Išdaužų iki 100 mm gylio užlyginimas autogreideriu, nepridedant naujų medžiagų;100 m2
+134;22P-4;Išdaužų užtaisymas, užpilant naujas medžiagas;100 m2
+135;22P-5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;1000 m2
+136;22P-6;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1000 m2
+137;22P-7;Skersinių nuolydžių ištaisymas, nepridedant naujų medžiagų;1000 m2
+138;22P-8;Skersinių nuolydžių ištaisymas, pridedant naujų medžiagų vidutiniam 50 mm storio sluoksniui;1000 m2
+139;22P-9;Įdubų ištaisymas, užpilant žvyro mineralinių medžiagų mišiniu;100 m2
+140;22P-10;Žvyrkelio dangos profiliuojamojo sluoksnio atstatymas;1000 m2
+141;22P-11;Silpnų vietų (iškylų) padengimas apsauginiu sluoksniu;100 m2
+142;22P-12;Apsauginio sluoksnio pašalinimas nuo silpnų vietų (iškylų), atšilus kelio konstrukcijai;100 m2
+143;22P-13;Dulkėjimo mažinimas, išberiant sausą druską (CaCl2);1000 m2
+144;22P-14;Dulkėjimo mažinimas, du kartus palaistant druskos (CaCl2) tirpalu;1000 m2
+145;22P-15;Dulkėjimo mažinimas, išpilant organinius rišiklius;1000 m2
+146;22P-16;Kelio barstymas frikcinėmis medžiagomis;1000 m2
+147;22P-17;Puraus sniego nuvalymas automobiliniais sniego valytuvais, kai sniego sluoksnis storesnis storesnis kaip 10 cm (pradėjus snigti);1000 m2
+148;22P-18;Sniego valymas, intensyviai sningant ir (arba) pustant;1000 m2
+149;22P-19;Sniego volų pašalinimas rotoriniais sniego valytuvais;1000 m2
+150;22P-20;Puraus sniego valymas traktoriniais sniego valytuvais;1000 m2
+151;22P-21;Užpustytų ruožų valymas buldozeriu;1000 m2
+152;22P-22;Sutankinto sniego sluoksnio storio sumažinimas nuo 30 iki 5 cm;1000 m2
+153;22P-23;Sniego volų pašalinimas;1 km pravaž.
+154;22P-24;Sniego tranšėjų iškasimas buldozeriu, kai sniego danga storesnė kaip 50 cm;1 km tranšėjos
+155;22P-25;Sniego tranšėjų įrengimas, sustumiant sniego volus iš abiejų pusių buldozeriu, kai sniego danga plonesnė kaip 50 cm;1 km tranšėjos
+156;22P-26;Sniego tranšėjų išvalymas buldozeriu, pravažiuojant ta pačia vieta du kartus;1 km tranšėjos
+157;22P-27;Smėlio barstymas rankiniu būdu dažno stabdymo vietose;100 m2
+158;22P-28;Apledėjusių žvyrkelių pašiurkštinimas, padarant prorėžas autogreideriu;1000 m2
+159;23P-1;Grindinio valymas, pašalinant atsitiktinius daiktus ir šluojant mechanizuotu būdu;100 m2
+160;23P-2;Grindinio valymas rankiniu būdu;100 m2
+161;23P-3;Išdaužų iki 5 m2 ploto užtaisymas grindiniuose iš lauko akmens;100 m2
+162;23P-4;Išdaužų iki 1 m2 užtaisymas grindiniuose iš betoninių trinkelių;100 m2
+163;23P-5;deformuoto gindinio iš lauko akmenų pergrindimas, panaudojant iki 80 % išardytų akmenų;100 m2
+164;23P-6;Deformuoto grindinio iš betoninių trinkelių pergrindimas, panaudojant iki 75 % išardytų trinkelių;100 m2
+165;23P-7;Slidumų šalinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+166;23P-8;Šlapios druskos paskleidimas, kai skleidimo norma iki 40 kg/1000 m2;1000 m2
+167;23P-9;Slidumų šalinimas, ilgai intensyviai sningant ir (arba) pustant;1000 m2
+168;23P-10;Sutankintos sniego dangos pašalinimas;1000 m2
+169;13P-11;Sniego volų pašalinimas gyvenvietėje;1 km pravaž.
+170;23P-12;Druskos-frakcinių medžiagų išbėrimas rankiniu būdu slidžiose vietose;100 m2
+171;31P-1;Atsitiktinių daiktų, esančių kelkraštyje, surinkimas ir pakrovimas;1000 m2
+172;31P-2;Kelkraščių šlavimas mechanizuotu būdu;1000 m2
+173;31P-3;Užterštų kelkraščio plotų prie autobusų sustojimo aikštelių valymas rankiniu būdu;100 m2
+174;31P-4;Išdaužų kelkraščiuose iš asfalto užtaisymas;100 m2
+175;31P-5;Plyšių užtaisymas;100 m2
+176;31P-6;Bangų ir slinkčių ištaisymas;100 m2
+177;31P-7;Provėžų ištaisymas, jas išfrezuojant ir užklojant asfaltbetonio mišinį h=80 mm;100 m2
+178;31P-8;Pradėjusių lukštentis, išsilukštenusių paviršių sutvirtinimas;100 m2
+179;31P-9;Asfalto dangų atnaujinimas karštuoju būdu, pridedant naujo asfaltbetonio mišinio;100 m2
+180;31P-10;Kelkraščio dangos iš asfalto viengubas apdorojimas bitumine emulsija su granito skaldele 8/11;100 m2
+181;31P-11;Kelkraščio dangos iš asfalto su išplaukusiomis bitumo dėmėmis užbarstymas atsijomis;100 m2
+182;31P-12;Kelkraščių ruožų su iškylomis sutvarkymas;100 m2
+183;31P-13;Įdubų ištaisymas kelkraščiuose iš asfalto, rankiniu būdu užklojant naują asfalto sluoksnį iki 50 mm storio;100 m2
+184;31P-14;Kelkraščio dangos nusidėvėjimo atstatymas, užklojant du sluoksnius šlamo mišinio;100 m2
+185;31P-15;Asfalto nutrupėjimų užtaisymas kelkraščių išoriniuose kraštuose;
+186;32P-1;Kelkraščių iš biriųjų medžiagų valymas;1000 m2
+187;32P-2;Kelkraščio profiliavimas autogreideriu, užlyginant bangas, išdaužas, provėžas;100 m2
+188;32P-3;Kelkraščio profiliavimas autogreideriu;1 km pravaž.
+189;32P-4;Gilesnių kaip 100 mm išdaužų užlyginimas, pridedant naujų medžiagų;100 m2
+190;32P-5;Skersinių nuolydžių atstatymas, nepridedant naujų medžiagų;100 m2
+191;32P-6;Skersinių nuolydžių atstatymas, pridedant naujų medžiagų;100 m2
+192;32P-7;Iki 200 mm gylio įdubų užtaisymas, užpilant žvyru;100 m2
+193;32P-8;Nusidėvėjusio sluoksnio iki 50 mm storio atstatymas;100 m2
+194;32P-9;Nusidėvėjusio viršutinio sluoksnio atstatymas, užpilant naujų medžiagų 15 cm storio sluoksniu;100 m2
+195;32P-10;Sujungimo su asfalto danga sutvarkymas, kai kelkraščio mineralinės medžiagos neužterštos purvu;1 km pravaž.
+196;32P-11;Purvo sankaupų ir žolių kupstų pašalinimas nuo kelkraščio sujungimo su asfalto danga;100 m2
+197;32P-12;Kelkraščio išorinės briaunos atstatymas rankiniu būdu;100 m2
+198;32P-13;Kelkraščio išorinės briaunos atstatymas naudojant autogreiderį;1 km pravaž.
+199;32P-14;Kelkraščio išorinės briaunos atstatymas mechanizuotu būdu;1 km pravaž.
+200;32P-15;Kelkraščio dalies su užterštomis mineralinėmis medžiagomis atnaujinimas;100 m2
+201;32P-16;Išplatėjusio kelkraščio sutvarkymas, atstatant projektinį plotį;10 m3
+202;32P-17;Skersinių drenažo griovelių iškasimas mechanizuotu būdu dangos konstrukcijos nusausinimui polaidžio laikotarpiu;10 m3
+203;32P-18;Skersinių drenažo griovelių iškasimas rankiniu būdu;1 m
+204;32P-19;Drenažo griovelių užpylimas, pasibaigus polaidžiui;1 m3
+205;33P-1;Kelkraščių, apželdintų veja, valymas;1000 m2
+206;33P-2;Provėžų ištaisymas, atstatant augalinę dangą;10 m2
+207;33P-3;Gilesnių kaip 15 cm provėžų ir įdubų ištaisymas;10 m2
+208;33P-4;Gilesnių kaip 10 cm įdubų ištaisymas;10 m2
+209;33P-5;Paaukštėjusio kelkraščio sujungimo su danga sutvarkymas;100 m2
+210;33P-6;Nužemėjusio kelkraščio sujungimo su danga sutvarkymas;100 m2
+211;33P-7;Išplovų užtaisymas;100 m2
+212;33P-8;Išorinės kelkraščio briaunos atstatymas, kai kelkraštis susiaurėjęs daugiau kaip 0,20 m;1 m3
+213;33P-9;Išorinės kelkraščio briaunos atstatymas, kai kelkraščio augalinė danga išplatėjusi nuo daugiau kaip 0,30 iki 1,0 m;100 m2
+214;33P-10;Išorinės kelkraščio briaunos atstatymas, kai kelkraščio augalinė danga išplatėjusi daugiau kaip 1,0 m;10 m3
+215;33P-11;Žolės pjovimas kelkraščiuose;1000 m2
+216;41P-1;Vandens pralaidų išvalymas, rankiniu būdu iškasant sąnašas;1 pralaida
+217;41P-2;Vandens pralaidų išvalymas, pašalinant sąnašas pneumatiniu būdu;1 pralaida
+218;41P-3;Laikinų vandens pralaidų įrengimas, kai esama pralaida yra užtvindyta;1 pralaida
+219;41P-4;Tuštumų virš žiedų užpildymas, injekuojant per pralaidos žiedų sandūras (iš vidaus);1 m
+220;41P-5;Tuštumų virš žiedų užpildymas, injekuojant pro dangos konstrukciją (iš išorės);1 m
+221;41P-6;Pažeistų sandūrų sutvarkymas, užtepant cementiniu skiediniu;1 m
+222;41P-7;Pakrypusio antgalio atstatymas;1 antgalis
+223;41P-8;Sandūrų tarp pasislinkusių žiedų užtaisymas;1 žiedas
+224;41P-9;Išsilukštenusio betono paviršiaus atstatymas;10 m2
+225;41P-10;Betono paviršiaus įtrūkių užtaisymas;1 m
+226;41P-11;Vandens pralaidų priežiūra polaidžio laikotarpiu;1 pralaida
+227;42P-1;Įtekamųjų ir ištekamųjų vandens pralaidų griovių išvalymas;1 pralaida
+228;42P-2;Išplovų sutvarkymas įtekamųjų ir ištekamųjų griovių šlaituose;1 pralaida
+229;42P-3;Vytelių tvorelės išpynimas, apsaugant griovio dugną nuo užslinkimų;10 m
+230;42P-4;Griovio dugno sutvirtinimas, įspaudžiant žvyro skaldą;10 m2
+231;42P-5;Griovio šlaitų sutvirtinimo atstatymas, velėnuojant langeliais ir užpilant juos žvyro skalda 22/56;10 m2
+232;42P-6;Šlaitų sutvirtinimo iš betoninių plytelių pažaidų ištaisymas;10 m2
+233;42P-7;Suirusio sutvirtinimo iš lauko akmenų grindinio atstatymas. Pergrindžiant naujai;10 m2
+234;42P-8;Šlaitų augalinės dangos atstatymas ištisiniu velėnavimu;10 m2
+235;42P-9;Pašalinti sniegą ir ledą iš pralaidos įtekamųjų ir ištekamųjų griovių prieš polaidį;1 pralaida
+236;42P-10;Stebėjimai polaidžio metu, susikaupusių nešmenų pašalinimas;1 pralaida
+237;43P-1;Sąnašų iškasimas iš šulinėlių;1 m3
+238;43P-2;Drenažo, kanalizacijos vamzdžių valymas mechaniniu būdu;10 m
+239;43P-3;Drenažo, kanalizacijos vamzdžių valymas hidrauliniu būdu;10 m
+240;43P-4;Sulūžusių drenažo vamzdžių pakeitimas naujais;1 asbestcementinis vamzdis
+241;43P-5;Sulaužytų kanalizacijos arba drenažo betoninių elementų (antgalių, atraminių blokų, dugno sutvirtinimo plokščių) pakeitimas naujais;1 m3
+242;43P-6;Sulaužytų gelžbetoninių drenažo arba kanalizacijos elementų (priskiriamų šulinėliams) pakeitimas naujais;1 m3
+243;43P-7;Šulinėlių sulaužytų gelžbetoninių žiedų pakeitimas;1 šulinėlis
+244;43P-8;Pasislinkusių arba nusėdusių elementų atitaisymas;1 elementas
+245;43P-9;Plyšių betoniniuose arba gelžbetoniniuose elementuose užtaisymas;10 m
+246;43P-10;Užteršto pogriovinio filtruojamojo sluoksnio atstatymas;10 m2
+247;43P-11;Užteršto ir nuslinkusio filtruojamojo sluoksnio atstatymas šlaite;10 m2
+248;43P-12;Kanalizacijos grotelių (dingusių vietoje) uždėjimas;1 vnt.
+249;43P-13;Drenažo žiočių paruošimas žiemai ir polaidžiui;10 vnt.
+250;43P-14;Vandens surinkimo šulinėlių paruošimas žiemai ir polaidžiui;1 vnt.
+251;43P-15;Sniego ir ledo nuvalymas prieš polaidį;10 m3
+252;44P-1;Šiukšlių, sąnašų pašalinimas iš greitviečių arba latakų;100 m
+253;44P-2;Elementų iš monolitinio betono atstatymas, užklojant naują iki 10 cm storio sluoksnį;1 m2
+254;44P-3;Pasislinkusių arba nusėdusių elementų padėties atstatymas, juos pataisant;1 m3
+255;44P-4;Greitvietės blokų paviršiaus nutrupėjimų, nuskilimų ištaisymas;10 m2
+256;44P-5;Sandūrų tarp elementų (pvz.,greitvietės blokų) užtaisymas;10 vnt.
+257;44P-6;Sutvirtinimo plokščių sujungimų remontas;10 m
+258;44P-7;Sujungimų tarp betoninių elementų (latakų ir antgalių blokų) užtaisymas;10 m
+259;44P-8;Greitviečių iš teleskopinių latakų atraminės juostos remontas;10 m
+260;44P-9;Sniego, ledo pašalinimas prieš polaidį, vandens sankaupų nuleidimas polaidžio metu;10 m3
+261;51P-1;Šiukšlių bei atsitiktinių daiktų surinkimas ir pakrovimas į krovininę automašiną;100 m2
+262;51P-2;Purvo ir žolės pašalinimas;100 m2
+263;51P-3;Išdaužų iki 1 m2 ploto ir 50 mm gylio užtaisymas peronuose iš asfalto;1 m2
+264;51P-4;Išdaužų užtaisymas peronuose iš betoninių plytelių;1 m2
+265;51P-5;Išdaužų 15 cm gylio užtaisymas peronuose iš žvyro arba skaldos;1 m2
+266;51P-6;Išdaužų 10 cm gylio ir iki 1 m2 ploto užtaisymas peronuose su monolitine betono danga;1 m2
+267;51P-7;Nelygumų ištaisymas peronuose iš betoninių plytelių;10 m2
+268;51P-8;Peronų dangos iš betoninių plytelių atstatymas, naujai paklojant plyteles;10 m2
+269;51P-9;Sulaužytų bordiūrų pakeitimas naujais;10 m
+270;51P-10;Nusėdusių bordiūrų atstatymas;10 m
+271;51P-11;Ištrupėjusio, išdaužyto betoninių bordiūrų paviršiaus užtaisymas betono mišiniu;10 m2
+272;51P-12;Erozijos pažeisto betoninių bordiūrų paviršiaus užtaisymas polimerbetonio mišiniu;1 m2
+273;51P-13;Betoninių bordiurų paviršiaus perdažymas rankiniu būdu;10 m2
+274;51P-14;Sniego sluoksnio pašalinimas ir barstymas, mažinant slidumus;100 m2
+275;52P-1;Saugumo salelių valymas;1000 m2
+276;52P-2;Provėžų ištaisymas, atstatant augalinę dangą;100 m2
+277;52P-3;Negilių įdubų (iki 10 cm gylio) ištaisymas;10 m2
+278;52P-4;Gilesnių kaip 15 cm įdubų ištaisymas;10 m2
+279;52P-5;Sulaužytų bordiurų pakeitimas naujais;10 m
+280;52P-6;Bordiurų, sudėtų ant pagrindo iš betono, ištaisymas jų nepakeičiant;10 m
+281;52P-7;Betoninių bordiurų paviršiaus pažaidų ištaisymas;10 m2
+282;52P-8;Betoninių bordiurų paviršiaus perdažymas;10 m2
+283;52P-9;Žolės pjovimas, naudojant mažosios mechanizacijos priemones;10 m2
+284;52P-10;Sniego volų nuo 0,5 m iki 1,0 m aukščio pašalinimas autogreideriu;100 m2
+285;53P-1;Saugumo salelių (be bordiurų) valymas mechamizuotai, užbaigiant rankiniu būdu;100 m2
+286;53P-2;Atsitiktinių daiktų, šiukšlių pašalinimas nuo saugumo salelių (su bordiūrais);1000 m2
+287;53P-3;Dulkių nušlavimas, purvo nugrandymas nuo saugumo salelių (su bordiūrais) rankiniu būdu;100 m2
+288;53P-4;Išdaužų užtaisymas asfalto dangose;100 m2
+289;53P-5;Išdaužų užtaisymas betono dangose;100 m2
+290;53P-6;Plyšių užtaisymas saugumo salelėse su asfalto dangomis;100 m
+291;53P-7;Įdubų ištaisymas, užklojant 50 mm storio asfaltbetonio sluoksnį;100 m2
+292;53P-8;Sudaužytų bordiurų pakeitimas naujais, nusėdusių bordiurų atstatymas, pažeisto paviršiaus ištaisymas betono mišiniu;10 m
+293;53P-9;Bordiurų arba sutvirtinimo elementų perdažymas;10 m2
+294;53P-10;Suirusių betoninių sutvirtinimo elementų išardymas ir užbetonavimas saugumo salelėse (be bordiurų) naujai;1 m3
+295;53P-11;Susikaupusio sniego ant saugumo salelių be bordiurų nuvalymas mechanizuotai;100 m2
+296;53P-12;Sniego nuo saugumo salelių (su bordiūrais)nuvalymas rankiniu būdu;100 m2
+297;54P-1;Poilsio aikštelių su vejos danga valymas;1000 m2
+298;54P-2;Poilsio aikštelių su asfalto danga valymas mechanizuotai, užbaigiant rankiniu būdu;100 m2
+299;54P-3;Ženklinimo atstatymas;10 m2
+300;54P-4;Išdaužų užtaisymas asfalto dangose;100 m2
+301;54P-5;Išdaužų užtaisymas betono dangose;100 m2
+302;54P-6;Plyšių užtaisymas asfalto dangose;100 m
+303;54P-7;Žolės pjovimas mechanizuotu ir rankiniu būdu;1 ha
+304;54P-8;Sniego nuo aikštelių, kuriomis naudojamasi žiemą, nuvalymas buldozeriu;100 m3
+305;54P-9;Sniego nuo aikštelių, kuriomis naudojamasi žiemą, nuvalymas automobiliniu sniego valytuvu;1000 m2
+306;54P-10;Sniego nuo aikštelių, kuriomis naudojamasi žiemą, nuvalymas traktoriniu sniego valytuvu arba autogreideriu;1000 m2
+307;54P-11;Slidumų šalinimas, paskleidžiant šlapią druską arba išberiant druskų ir frikcinių medžiagų mišinį;1000 m2
+308;55P-1;Šiukšlių, atsitiktinių daiktų  surinkimas pastatuose ir teritorijose apie juos, pakrovimas ir išvežimas;1000 m2
+309;55P-2;Pastatų vidaus iššlavimas, šiukšlių dėžių išvalymas;10 m2
+310;55P-3;Skylių iki 0,2 m2 ploto ir 100 mm gylio stoguose iš gelžbetoninių plokščių užtaisymas;10 m2
+311;55P-4;Stogų su medine danga remontas;10 m2
+312;55P-5;Priklijuotos vieno sluoksnio ruloninės stogo dangos remontas;10 m2
+313;55P-6;Prikasltos vieno sluoksnio ruloninės stogo dangos remontas;10 m2
+314;55P-7;Atskirų stogo dangos cinkuotos skardos lakštų iki 5 vienetų vienoje vietoje pakeitimas;vnt.
+315;55P-8;Atskirų čerpių pakeitimas;vnt.
+316;55P-9;Medinių sienų remontas, pakeičiant atskiras lentas;1 m
+317;55P-10;Mūro sienų remontas;1 m2
+318;55P-11;Vitrininių iki 4,5 m2 ploto stiklų pakeitimas sienose;1 m2
+319;55P-12;Lygaus, paprasto tinko sienų remontas, kai užtaisomos vietos plotas iki 1 m2;10 m2
+320;55P-13;Tas pats, kai užtaisomos vietos plotas iki 5 m2;10 m2
+321;55P-14;Anksčiau dažytų lygių fasadų tinkuotų paviršių dažymas kalkiniais dažais;10 m2
+322;55P-15;Anksčiau dažytų lygių fasadų dažymas kazeininiais dažais;10 m2
+323;55P-16;Anksčiau dažytų lygių fasadų dažymas vieną kartą perchloriniliniais dažais;10 m2
+324;55P-17;Anksčiau dažytų tinkuotų lygių fasadų dažymas vieną kartą silikatiniais dažais;10 m2
+325;55P-18;Anksčiau dažytų medinių sienų perdažymas, nuvalant iki 30 % ploto senų dažų;10 m2
+326;55P-19;Anksčiau dažytų metalinių paviršių perdažymas vieną kartą aliejiniais dažais;10 m2
+327;55P-20;Sniego sluoksnio iki 15 cm storio ir ledo (iki 10 % ploto) nuvalymas nuo priėjimo takelių ir grindų;100 m2
+328;55P-21;Priėjimo takelių ir grindų barstymas smėliu, esant slidumams;100 m2
+329;56P-1;Tualetų valymas;1 m2
+330;56P-2;Tualeto duobės išgriebimas, išvežimas, dezinfekavimas;1 vnt.
+331;56P-3;Šiukšlių nuo tualetų aplinkos surinkimas ir išvežimas;1000 m2
+332;56P-4;Stogų remontas;10 m2
+333;56P-5;Medinių sienų remontas, pakeičiant atskiras lentas;1 m
+334;56P-6;Mūrinių sienų remontas;1 m2
+335;56P-7;Monolitinių sienų remontas;10 m2
+336;56P-8;3 mm storio stiklų mediniuose rėmuose pakeitimas, kai stiklo plotas iki 0,5 m2;10 m2
+337;56P-9;Smulkus durų remontas, jų neišimant;1 vnt.
+338;56P-10;Stambus durų remontas, jas išimant;1 vnt.
+339;56P-11;Medinių pertvarų remontas;10 m2
+340;56P-12;Mūrinių pertvarų remontas, pakeičiant plytas, kai užtaisomos vietos storis-pusė plytos;1 m2
+341;56P-13;Monolitinių pertvarų remontas, užtaisant skyles;1 vnt.
+342;56P-14;Statybinių šiukšlių pašalinimas iš suremontuotų pastatų;10 m2
+343;56P-15;Anksčiau dažytų įvairių paviršių perdažymas;10 m2
+344;56P-16;Sniego nuvalymas nuo priėjimo takelių, suspausto sniego ir ledo pašalinimas nuo grindų;100 m2
+345;56P-17;Priėjimo takelių ir grindų barstymas druskomis;10 m2
+346;57P-1;Medinių šiukšlių dėžių remontas;10 vnt.
+347;57P-2;Deformuotų metalinių šiukšlių dėžių remontas;10 vnt.
+348;57P-3;Betoninių šiukšlių dėžių remontas;10 vnt.
+349;57P-4;Sulaužytų medinių šiukšlių dėžių pakeitimas naujomis;10 vnt.
+350;57P-5;Sulaužytų arba nepataisomai deformuotų metalinių šiukšlių dėžių pakeitimas;10 vnt.
+351;57P-6;Sudaužytų betoninių šiukšlių dėžių pakeitimas;10 vnt.
+352;57P-7;Šiukšlių surinkimas ir dėžių dezinfekavimas;100 vnt.
+353;57P-8;Dažytų medinių ir metalinių paviršių perdažymas;10 m2
+354;57P-9;Betoninių šiukšlių dėžių dažymas kalkėmis;10 m2
+355;58P-1;medinių paviršių perdažymas, nuvalant iki 10 % atsilupusių dažų;10 m2
+356;58P-2;Medinių paviršių lakavimas;10 m2
+357;58P-3;Anksčiau dažytų metalinių paviršių perdažymas;10 m2
+358;58P-4;Betoninių lauko baldų elementų perdažymas;10 m2
+359;58P-5;Senų sulaužytų arba supuvusių suolų pakeitimas naujais;1 vnt.
+360;58P-6;Senų sulaužytų stalų pakeitimas naujais;1 vnt.
+361;58P-7;Sulaužytų, sugadintų smulkių metalinių detalių pakeitimas naujomis;100 kg
+362;58P-8;Lauko baldų sulūžusių arba supuvusių atskirų medinių elementų pakeitimas naujais;1 vnt.
+363;59P-1;Šiukšlių pašalinimas;1 t
+364;59P-2;Purvo  ir sąnašų nuvalymas;10 m2
+365;59P-3;Medinių sulūžusių arba supuvusių elementų (medinės dangos, laiptų pakopų) pakeitimas;1 m2
+366;59P-4;Sulaužytų gelžbetoninių laiptų elementų pakeitimas naujais;1 m3
+367;59P-5;Medinių turėklų pažeistų elementų pakeitimas naujais;10 m
+368;59P-6;Metalinių turėklų remontas, pakeičiant elementus;10 m
+369;59P-7;metalinių turėklų remontas, nepakeičiant elementų;10 m
+370;59P-8;Anksčiau dažytų medinių arba metalinių paviršių perdažymas;10 m2
+371;59P-9;Laiptų pakopų, lieptelių, tiltelių dangos valymas ir barstymas;10 m2
+372;510P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, sudėjimas į maišus, pakrovimas ir išvežimas;100 kg
+373;510P-2;Šulinių dangčių arba stogelių remontas;1 m2
+374;510P-3;Šulinių dangčių arba stogelių suremontuotos medinės dangos apkalimas skarda;1 m2
+375;510P-4;Šulinių dangčių arba stogelių vyrių pakeitimas;1 vnt.
+376;510P-5;Skląsčių pakeitimas;1 vnt.
+377;510P-6;Medinių arba apskardintų dangčių (stogelių) perdažymas;10 m2
+378;510P-7;Žemės paviršiaus išlyginimas rankiniu būdu II grupės grunte, padarant nuolydį vandeniui nutekėti nuo šulinio arba šaltinio;10 m2
+379;510P-8;Sniego valymas nuo priėjimo takų ir barstymas;10 m2
+380;510P-9;Apledėjimo aplink šulinius, šaltinius pašalinimas;10 m2
+381;511P-1;KOSIS matavimo stoties priežiūra ir gedimų pašalinimas;1 vnt.
+382;511P-2;KOSIS matavimo stoties daviklių ir aparatūros bloko pakeitimas;1 komplektas
+383;511P-3;KOSIS matavimo stočių keičiamos informacijos ženklų priežiūra ir gedimų pašalinimas;1 vnt.
+384;511P-4;KOSIS matavimo stočių keičiamos informacijos ženklų plokščių pakeitimas;1 vnt.
+385;512P-1;Apšvietimo įrenginių atramų paviršiaus valymas;10 m2
+386;512P-2;Apšvietimo įrenginių atramų paviršių perdažymas;10 m2
+387;61P-1;Šiukšlių ir atsitiktinių daiktų surinkimas, pakrovimas ir išvežimas;100 m2
+388;61P-2;Išplovų užpylimas;1 m3
+389;61P-3;Deformuotų salelių atstatymas;10 m2
+390;61P-4;Žolės pjovimas rankiniu būdu;10 m2
+391;62P-1;Betoninių pamatų nusėdimo (iki 10 cm) ištaisymas;1 vnt.
+392;62P-2;Apykaklinio pamato metalinėms atramoms nusėdimų (didesnių kaip 10 cm) ištaisymas;1 vnt.
+393;62P-3;Sulaužyto gelžbetoninės atramos pamato pakeitimas nauju, betonuojant vietoje;1 vnt.
+394;62P-4;Sulaužyto pamato gelžbetoninei atramai pakeitimas nauju, pagamintu gamykloje;1 vnt.
+395;63P-1;Atramų kelio ženklams paviršiaus valymas;10 m2
+396;63p-2;Gelžbetoninių atramų paviršių dažymas;10 m2
+397;63P-3;Metalinių atramų paviršių perdažymas;10 m2
+398;63P-4;Gelžbetoninių atramų įtrūkių užtaisymas;1 m
+399;63P-5;Gelžbetoninių atramų ištrupėjimų, nudaužymų užtaisymas;1 m2
+400;63P-6;Įlenktos metalinės atramos ištaisymas;1 vnt.
+401;63P-7;Sulaužytos gelžbetoninės atramos su apykakliniu pamatu pakeitimas;1 vnt.
+402;63P-8;kelio ženklų dvistiebių gelžbetoninių atramų ant tipinių betoninių pamatų pakeitimas;1 atramų komplektas
+403;63P-9;Kelio ženklų vienastiebių gelžbetoninių atramų (be pamatų) pakeitimas, užbetonuojant gręžinį;1 vnt.
+404;63P-10;Sulaužytų arba deformuotų metalinių atramų pakeitimas;1 vnt.
+405;63P-11;Sulaužytų arba deformuotų gelžbetoninių atramų pakeitimas metalinėmis;1 vnt.
+406;63P-12;Sulaužytos metalinės atramos pakeitimas;1 vnt.
+407;63P-13;Pasvirusių gelžbetoninių arba metalinių atramų (be pamatų) ištiesinimas;1 vnt.
+408;63P-14;Gelžbetoninių atramų demontavimas;1 vnt.
+409;63P-15;Metalinių atramų demontavimas;1 vnt.
+410;64P-1;Dulkių ir purvo nuvalymas nuo ženklų skydų rankiniu būdu;10 m2
+411;64P-2;Dulkių ir purvo nuvalymas nuo ženklų skydų mechanizuotu būdu;10 m2
+412;64P-3;Naftos produktų ir suodžių nuvalymas nuo ženklų skydų rankiniu būdu;10 m2
+413;64P-4;Molio dalelių nuvalymas nuo ženklų skydų rankiniu būdu;10 m2
+414;64P-5;Sniego ir apledėjimų pašalinimas nuo ženklų skydų, valant druskų (NaCl) tirpalu rankiniu būdu;10 m2
+415;64P-6;Šviesą atspindinčiuose ženkluose plėvelės pažaidų ištaisymas, uždedant lopus;1 m2
+416;64P-7;Vienpusių kelio ženklų skydų pakeitimas naujais rankiniu būdu,kai skydai, kurių kraštinės ilgis iki vieno metro, tvirtinami prie vienastiebių atramų;1 vnt.
+417;64P-8;Dvipusių kelio ženklų skydų pakeitimas naujais rankiniu būdu, kai skydai, kurių kraštinės ilgis iki vieno metro, tvirtinami prie vienastiebių atramų;1 vnt.
+418;64P-9;Kelio ženklų skydų pakeitimas naujais rankiniu būdu, kai skydai, kurių kraštinė ilgesnė kaip vienas metras, tvirtinami prie dvistiebių atramų;1 vnt.
+419;64P-10;Dvipusių kelio ženklų skydų pakeitimas naujais rankiniu būdu, kai skydai, kurių kraštinė ilgesnė kaip vienas metras, tvirtinami prie dvistiebių atramų;1 vnt.
+420;64P-11;Vienpusių kelio ženklų skydų pakeitimas naujais, naudojant automobilinį kraną, kai skydai, kurių kraštinė ilgesnė kaip vienas metras, tvirtinami prie dvistiebių atramų;1 vnt.
+421;64P-12;Dvipusių kelio ženklų skydų pakeitimas naujais, naudojant automobilinį kraną, kai skydai, kurių kraštinė ilgesnė kaip vienas metras, tvirtinami prie dvistiebių atramų;1 vnt.
+422;64P-13;Kelio ženklų skydų patiesinimas arba pakėlimas, nusėdus atramai ne daugiau kaip 7 cm;1 vnt.
+423;64P-14;Įlenktų ženklų skydų ištaisymas;1 vnt.
+424;64P-15;Sunaikinto (pavogto) kelio ženklo skydo, kurio kraštinės ilgis iki vieno metro, atstatymas;1 vnt.
+425;64P-16;Nereikalingų (senų) kelio ženklų skydų nuėmimas;1 vnt.
+426;71P-1;Esamo ženklinimo 0,12 m pločio linijų atstatymas rankiniu būdu;10 m2
+427;71P-2;Esamo ženklinimo brūkšninių 0,2 m pločio linijų atstatymas;10 m2
+428;71P-3;Esamo ženklinimo 0,4 m pločio linijų atstatymas rankiniu būdu;10 m2
+429;71P-4;Rodyklių, pėsčiųjų perėjų, simbolių ir pan. ženklinimo atstatymas rankiniu būdu;10 m2
+430;71P-5;Esamo ženklinimo 0,12 m pločio linijų atstatymas mechanizuotu būdu;10 m2
+431;71P-6;Esamo ženklinimo 0,2 m pločio linijų atstatymas mechanizuotu būdu;10 m2
+432;71P-7;Esamo ženklinimo 0,4 m pločio linijų atstatymas mechanizuotu būdu;10 m2
+433;71P-8;Rodyklių, pėsčiųjų perėjų, simbolių ir pan. Ženklinimo atstatymas dažais mechanizuotu būdu;10 m2
+434;71P-9;Metalinių atšvaitų (kelio dangoje) išmontavimas-sumontavimas, keičiant atspindintį elementą;1 vnt.
+435;71P-10;Metalinių atšvaitų (kelio dangoje) išmontavimas-sumontavimas, keičiant atspindintį elementą;10 m2
+436;71P-11;Metalinių atšvaitų atspindinčio elemento kelio dangoje pakeitimas;1 vnt.
+437;71P-12;Linijų kelio dangoje ženklinimas termoplastiku (vidutinio pločio linijų) mechanizuotu būdu;10 m2
+438;71P-13;Rodyklių, pėsčiųjų perėjų, simbolių ir pan. Ženklinimas kelio dangoje termoplastiku rankiniu būdu;10 m2
+439;71P-14;Linijų kelio dangoje ženklinimas purškiamuoju termoplastiku (vidutinio pločio linijomis) mechanizuotu būdu;10 m2
+440;71P-15;Rodyklių, pėsčiųjų perėjų, simbolių ir pan. ženklinimas kelio dangoje šaltuoju plastiku rankiniu būdu;10 m2
+441;71P-16;Linijų kelio dangoje ženklinimas šviesą atspindinčiais dažais (vidutinio pločio linijomis) mechanizuotu būdu;10 m2
+442;71P-17;Rodyklių, pėsčiųjų perėjų, simbolių ir pan. ženklinimas mechanizuotu būdu;10 m2
+443;71P-18;Sferinių stiklinių atšvaitų (d=30 mm) įrengimas kelio bordiūruose;10 vnt.
+444;71P-19;Laikinasis linijų ženklinimas, užklijuojant specialias juostas;10 m
+445;72P-1;Dulkių ir purvo nuo vertikaliojo ženklinimo paviršiaus nuvalymas rankiniu būdu; mechanizuotai; naftos produktų ir suodžių, molio dalelių nuvalymas rankiniu būdu; sniego ir apledėjimų pašalinimas, valant druskų tirpalu rankiniu būdu;10 m2
+446;72P-2;Vertikaliojo ženklinimo atstatymas;1 m2
+447;72P-3;Vertikaliųjų paviršių ženklinimas;1 m2
+448;81P-1;Sijinių ir parapetinių atitvarų valymas;100 m
+449;81P-2;Trosinių atitvarų trosų, amortizuojančių intarpų, statramsčių valymas;100 m
+450;81P-3;Atitvarų valymas žiemą;100 m
+451;81P-4;Prie atitvarų susikaupusio grunto išlyginimas mechanizuotu ir rankiniu būdu, kai atitvarai įrengti ilguose ruožuose;100 m2
+452;81P-5;Susikaupusio grunto prie sijinių atitvarų trumpuose ruožuose (apie medžius, kelio ženklus, statinių atramas)ir prie parapetinių atitvarų pašalinimas;1 m3
+453;81P-6;Trosinių atitvarų perdažymas;100 m
+454;81P-7;Metalinių atitvarų paviršių padengimas antikorozinėmis medžiagomis;10 m2
+455;81P-8;Ištrupėjusių, nuskeltų paviršių sutvarkymas (betoniniai, gelžbetoniniai paviršiai);10 m2
+456;81P-9;Metalinių atitvarų paviršių perdažymas;10 m2
+457;81P-10;Anksčiau dažytų gelžbetoninių paviršių perdažymas;10 m2
+458;81P-11;Sulaužytos gelžbetoninės atitvarų sijos pakeitimas;1 gelžb. Sija
+459;81P-12;Atitvarų metalinių sijų pakeitimas;1 metalinė sija
+460;81P-13;Sulaužytų vienpusių surenkamų gelžbetoninių parapetinių atitvarų blokų pakeitimas;10 m
+461;81P-14;Sutraukytų plieninių trosų pakeitimas naujais;10 m
+462;81P-15;Trosinių atitvarų sulaužyto gelžbetoninio statramsčio pakeitimas nauju;1 vnt.
+463;81P-16;Sulaužyto gelžbetoninio metalinių sijinių atitvarų statramsčio pakeitimas nauju;1 vnt.
+464;81P-17;Sulaužyto metalinio atitvarų statramsčio pakeitimas nauju;1 vnt.
+465;81P-18;Sijų tvirtinimo sukorodavusių elementų pakeitimas naujais;1 komplektas
+466;81P-19;Pasvirusių gelžbetoninių statramsčių atstatymas, išlyginant aukščius ir padėtį plane;10 vnt.
+467;81P-20;Nusėdusių metalinių sijinių atitvarų su gelžbetoniais statramsčiais atstatymas, jų nedemontuojant;10 m
+468;81P-21;Nusėdusių metalinių sijinių atitvarų su metaliniais statramsčiais atstatymas, jų nedemontuojant;m
+469;81P-22;Metalinio atšvaito šviesą atspindinčio elemento pakeitimas;10 vnt.
+470;81P-23;metalinio atšvaito su laikikliu pakeitimas;10 vnt.
+471;81P-24;Plastikinio atšvaito pakeitimas;10 vnt.
+472;81P-25;Šviesą atspindinčios plėvelės pakeitimas;10 m2
+473;82P-1;Purvo ir dulkių nuvalymas nuo signalinių stulpelių rankiniu būdu;10 vnt.
+474;82P-2;Purvo  ir dulkių nuvalymas nuo signalinių stulpelių rankiniu būdu;10 vnt.
+475;82P-3;Purvo ir dulkių nuvalymas, plaunant mechanizuotu būdu;10 vnt.
+476;82P-4;Naftos produktų dėmių nuvalymas;10 m2
+477;82P-5;Sniego ir ledo nuvalymas nuo atšvaitų;10 vnt.
+478;82P-6;Gelžbetoninių signalinių stulpelių paviršiaus pažaidų ištaisymas;10 m2
+479;82P-7;Betoninių signalinių stulpelių perdažymas rankiniu būdu;10 m2
+480;82P-8;Medinių gairių perdažymas, nuvalant iki 30 % senų dažų;10 vnt.
+481;82P-9;Betoninių signalinių stulpelių pakeitimas;10 vnt.
+482;82P-10;Sulaužytų arba deformuotų plastikinių signalinių stulpelių pakeitimas naujais;10 vnt.
+483;82P-11;Sudaužytų atšvaitų nuėmimas ir naujų priklijavimas;10 vnt.
+484;82P-12;Plastikinio signalinio stulpelio šviesą atspindinčios plėvelės pakeitimas;10 vnt.
+485;82P-13;Plastikinių signalinių stulpelių juodos (įstrižos) juostos pakeitimas;10 vnt.
+486;82P-14;Pasvirusių plastikinių signalinių stulpelių atstatymas;10 vnt.
+487;82P-15;Gairių pastatymas ir nuėmimas;100 vnt.
+488;83P-1;Tvorų paviršių valymas šepečiais rankiniu būdu;10 m2
+489;83P-2;Įtrūkių, pavienių skylių tvoroje užtaisymas,surišant viela;1 m2
+490;83P-3;Korozijos pažeistų vietų padengimas antikorozinėmis medžiagomis;10 m2
+491;83P-4;Pasvirusių tvoros stulpelių atstatymas;1 vnt.
+492;83P-5;Metalinės tvoros perdažymas;10 m2
+493;83P-6;Tinklinės tvoros remontas, pakeičiant rėmus su tinklu;10 m
+494;83P-7;Tinklinės tvoros (iki 1,5 m aukščio) remontas, pakeičiant tinklą;10 m
+495;83P-8;Tinklinės tvoros (iki 1,5 m aukščio) remontas, pakeičiant rėmus su tinklu ir gelžbetoninius statramsčius;10 m
+496;83P-9;Tvoros (iki 1,20 m aukščio) iš metalinių vamzdžių remontas, nekeičiant statramsčių;10 m
+497;83P-10;Tvorų (iki 1,20 m aukščio) iš metalinių vamzdžių remontas, pakeičiant metalinius statramsčius;10 m
+498;83P-11;Sulūžusių medinių statramsčių pakeitimas (apsauginės tvoros per miškus);1 vnt.
+499;83P-12;Sniegatvorių iš medinių skydų pastatymas ir nuėmimas;100 m
+500;83P-13;Sniegatvorių medinių skydų remontas, pakeičiant lentas;1 m2
+501;83P-14;Sniegatvorių iš plastikinio tinklo pastatymas, plastikinio tinklo pakeitimas (esant pažeidimams) ir nuėmimas;100 m
+502;91P-1;Šiukšlių ir atsitiktinių daiktų pašalinimas iš želdynų;100 m2
+503;91P-2;Medžių kamienų dažymas kalkėmis;10 vnt.
+504;91P-3;Jaunų medelių papildomas pririšimas prie kuolų;10 vnt.
+505;91P-4;Medžių iki trijų metrų aukščio vainikų formavimas;10 vnt.
+506;91P-5;Medžių (iki 200 mm skersmens) vainikų apkarpymas ir retinimas;10 vnt.
+507;91P-6;Medžių (iki 400 mm skersmens) vainikų apkarpymas ir retinimas;10 vnt.
+508;91P-7;Medžių (didesnio kaip 400 mm skersmens) vainikų apkarpymas ir retinimas;10 vnt.
+509;91P-8;Krūmų, didesnio kaip vieno metro skersmens, formavimas;10 vnt.
+510;91P-9;Gyvatvorės suformavimas, rankiniu būdu karpant ją iš trijų pusių;10 m2
+511;91P-10;Sausų šakų išpjovimas;1 medis
+512;91P-11;Senų medžių pašalinimas;1 medis
+513;91P-12;Senų medžių (didesnio kaip 32 cm skersmens) pašalinimas;1 medis
+514;91P-13;Senų krūmų pašalinimas;10 vnt.
+515;91P-14;Medžių sodinukų priežiūra;10 vnt.
+516;91P-15;Dviejų eilių gyvatvorės priežiūra;10 m
+517;91P-16;Medžių iki 8 m aukščio ir iki 6 m skersmens vainikais apipurškimas cheminėmis medžiagomis, naikinant kenkėjus anksti pavasarį (medžiams nesulapojus);100 vnt.
+518;91P-17;Tas pats, vasarą (kai medžiai su lapais);100 vnt.
+519;91P-18;Krūmų iki 2 m aukščio apipurškimas cheminėmis medžiagomis, naikinant kenkėjus anksti pavasarį (krūmams nesulapojus);100 vnt.
+520;91P-19;Tas pats, vasarą (kai krūmai su lapais);100 vnt.
+521;91P-20;Piktžolių naikinimas,apipurškiant cheminėmis medžiagomis mechanizuotu būdu;1 ha
+522;91P-21;Piktžolių naikinimas, apipurškiant cheminėmis medžiagomis rankiniu purkštuvu;100 m2
+523;91P-22;Medelių sodinukų sodinimas į (0,7x0,7 m) duobes;10 vnt.
+524;91P-23;Krūmų sodinimas grupėmis į (0,5x0,5 m) duobes;10 vnt.
+525;92P-1;Dirvos paruošimas gėlynui;10 m2
+526;92P-2;Gėlių sodinimas pagal nužymėjimus``;100 vnt.
+527;92P-3;Gėlynų priežiūra vasarą;10 m2
+528;92P-4;Daugiamečių gėlių paruošimas žiemai;10 vnt.
+529;101P-1;Takų su kietomis dangomis valymas rankiniu būdu;100 m2
+530;101P-2;takų su žvyro dangomis valymas rankiniu būdu;100 m2
+531;101P-3;Žolės nuskutimas nuo dangos paviršiaus;100 m2
+532;101P-4;Išdaužų (60 mm gylio) užtaisymas takuose su žvyro dangomis;100 m2
+533;101P-5;Išdaužų, didesnio kaip 1 m2 ploto ir iki 50 mm gylio, užtaisymas takuose su asfalto, betono dangomis;100 m2
+534;101P-6;Plyšių, platesnių kaip 10 mm, užtaisymas asfalto dangose, užpildant mastika;100 m
+535;101P-7;Griovelių vandens nuleidimui nuo užsitvenkusios pralaidos iškasimas rankiniu būdu;1 m3
+536;101P-8;Pralaidos išvalymas grandikliais, sąnašas išjudinant metaliniais strypais;10 m
+537;101P-9;Deformuotų plotų atstatymas, paklojant naujas plyteles;10 m2
+538;101P-10;Sniego sluoksnio iki 50 cm storio nukasimas rankiniu būdu, permetant sniegą iki 3 m;100 m2
+539;101P-11;Takų barstymas frikcinėmis medžiagomis, esant slidumams;100 m2
+540;101P-12;Sniego užpustytose vietose nuvalymas mechanizuotu būdu;1000 m2
+541;111P-1;Dangos valymas;100 m2
+542;111P-2;Išdaužų važiuojamosios dalies dangoje iš asfalto užtaisymas;100 m2
+543;111P-3;Išdaužų užtaisymas asfaltbetonio mišiniu, nufrezuojant suirusią dangą;100 m2
+544;111P-4;Asfalto dangų sutaisytų paviršių dalinis apdorojimas;100 m2
+545;111P-5;Asfalto dangų taisymas, pakaitinant suirusios dangos plotą ir pridedant iki 50 % naujo asfaltbetonio mišinio;100 m2
+546;111P-6;Išdaužų užtaisymas šaltuoju asfaltbetoniu arba bitumo mineraliniu mišiniu;100 m2
+547;111P-7;Išdaužų užtaisymas važiuojamojoje dalyje iš betono;100 m2
+548;111P-8;Plyšių užtaisymas;100 m
+549;111P-9;Plyšių tinklo užtaisymas;100 m2
+550;111P-10;Ištrupėjusių užpildyto tipo deformacinių pjūvių užtaisymas, užpildant juos mastika;100 m
+551;111P-11;Užpildyto tipo deformacinių pjūvių užtaisymas Thormojoint sistemos medžiagomis;100 m
+552;111P-12;Vandens nuleidimo šulinėlių sutvarkymas;1 vnt.
+553;111P-13;Betoninių latakų paviršiaus pažaidų ištaisymas;1 m2
+554;111P-14;Sulūžusių betoninių vandens nuleidimo latakų atstatymas, užbetonuojant naujai;1 m3
+555;111P-15;Tilto važiuojamosios dalies barstymas frikcinėmis medžiagomis;1000 m2
+556;111P-16;Puraus sniego valymas automobiliniais valytuvais (pradėjus snigti);1000 m2
+557;111P-17;Pakartotinis sniego valymas (intensyviai sningant ir pustant);1000 m2
+558;111P-18;Sniego volų šalinimas nuo ilgesnių kaip 40 m tiltų arba viadukų važiuojamosios dalies;100 m3
+559;111P-19;Sniego volų šalinimas nuo trumpesnių kaip 40 cm tiltų arba viadukų važiuojamosios dalies;1 km pravaž.
+560;111P-20;Apledėjusių dangų pašiurkštinimas, padarant prorėžas, autogreideriu;1000 m2
+561;112P-1;Šalitilčių valymas;100 m2
+562;112P-2;Išdaužų iki 50 mm gylio užtaisymas šalitilčiuose su asfalto, betono danga;1 m2
+563;112P-3;Išdaužų iki 50 mm gylio užtaisymas šalitilčiuose su betono dangomis;100 m2
+564;112P-4;Plyšių užtaisymas;100 m
+565;112P-5;Užpildyto tipo deformacinių pjūvių užpildymas mastika;100 m
+566;112P-6;Puvinio pažeistų dangos plotų antiseptikavimas;10 m2
+567;112P-7;Sulūžusios dangos remontas, pakeičiant atskiras lentas;10 m2
+568;112P-8;Plyšių iki 50 mm pločio užtaisymas, pritaikant intarpus;10 vnt.
+569;112P-9;Sujungimo varžtų priveržimas;10 vnt.
+570;112P-10;Sniego nuvalymas nuo šalitilčių magistraliniuose keliuose;10 m3
+571;112P-11;Sniego nuvalymas nuo šalitilčių dangos rankiniu būdu, kai tiltas arba viadukas trumpesnis kaip 40 m;100 m2
+572;112P-12;Šalitilčių barstymas frikcinėmis medžiagomis, esant slidumams;100 m2
+573;113P-1;Sijinių bei parapetinių atitvarų valymas;100 m
+574;113P-2;Riebalinių dėmių nuvalymas nuo atitvarų, naudojant skiediklius;1 m2
+575;113P-3;Prie atitvarų susikaupusių barstymo liekanų pašalinimas ir tilto važiuojamosios dalies nušlavimas rankiniu būdu;1 m3
+576;113P-4;Sudaužytų atšvaitų pakeitimas;10 vnt.
+577;113P-5;Sniego volo pašalinimas, iškasant jį iš po atitvarų, pakraunant į automobilį savivartį ir išvežant iki 2 km atstumu;10 t
+578;113P-6;Sniego,apledėjimų nuvalymas nuo atšvaitų, naudojant druskos tirpalą;10 vnt.
+579;113P-7;Metalinių atitvarų perdažynmas;10 m2
+580;113P-8;Gelžbetoninių atitvarų perdažymas;10 m2
+581;113P-9;Sulaužytos metalinio atitvaro sijos pakeitimas nauja;1 sija
+582;113P-10;Sulaužyto metalinio atitvaro statramsčio ir sijų pakeitimas;10 m
+583;113P-11;Paaukštintų monolitinių gelžbetoninių bordiūrų remontas, užbetonuojant naujai;1 m
+584;113P-12;Gelžbetoninių atitvarų paviršiaus remontas;1 m2
+585;113P-13;Įlenktos metalinio atitvaro sijos ištaisymas;1 sija
+586;113P-14;Gelžbetoninių atitvarų nuardymas, paruošiant vietą metalinių atitvarų įrengimui;1 m3
+587;113P-15;Metalinių atitvarų įrengimas nuardytų gelžbetoninių atitvarų vietoje;10 m
+588;114P-1;Dulkių, purvo nuvalymas šepečiais rankiniu būdu;100 m
+589;114P-2;Rūdžių nuvalymas metaliniu šepečiu rankiniu būdu;10 m2
+590;114P-3;Riebalinių dėmių nuvalymas skiedikliais;10 m2
+591;114P-4;Turėklų nuplovimas vandeniu rankiniu būdu;100 m
+592;114P-5;Sugadintų metalinių turėklų įtvirtinimų remontas;1 vnt.
+593;114P-6;Gelžbetoninių turėklų statramsčių įtvirtinimų sustiprinimas;10 vnt.
+594;114P-7;medinių turėklų statramsčių įtvirtinimas, įsukant naujus varžtus;10 vnt.
+595;114P-8;Metalinių turėklų perdažymas aliejiniais dažais;10 m2
+596;114P-9;Metalinių turėklų perdažymas antikoroziniais dažais, dažant teptuku, nuvalius paviršių rankiniu būdu;10 m2
+597;114P-10;Metalinių turėklų perdažymas antikoroziniais dažais, dažant teptuku, nuvalant paviršių smėliasrovio aparatu;10 m2
+598;114P-11;Gelžbetoninių turėklų perdažymas;10 m2
+599;114P-12;Vietomis sulaužytų arba deformuotų metalinių turėklų remontas, pakeičiant juos naujais turėklais;1 m
+600;114P-13;Suirusių arba sulaužytų gelžbetoninių turėklų nuardymas;1 m3
+601;114P-14;Laikino aptvėrimo iš metalinių vamzdžių įrengimas (nuardytų gelžbetoninių turėklų tarpuose);1 m
+602;114P-15;Medinių turėklų sulaužytų elementų pakeitimas naujais;1 m
+603;115P-1;Atsitiktinių daiktų surinkimas į krūvas, pakrovimas į autotransportą, išvežimas iki 5 km atstumu;1 t
+604;115P-2;Krūmų iškirtimas;100 m2
+605;115P-3;Žolės nupjovimas rankiniu būdu;10 m2
+606;115P-4;Negilių išplovų (iki 10 cm gylio) užtaisymas, užlyginant aplinkiniu gruntu;10 m2
+607;115P-5;Išplovų užpylimas, atvežant II gr. Gruntą 5 km atstumu;1 m3
+608;115P-6;Nuošliaužų bei sąnašų nukasimas ir pakrovimas rankiniu būdu į automobilį savivartį, išvežant iki 5 km atstumu;1 m3
+609;115P-7;Sutvirtinimo pažaidų pašalinimas, užpilant augalinio grunto 10 cm storio sluoksniu ir užsėjant žole;100 m2
+610;115P-8;Sutvirtinimo pažaidų pašalinimas, velėnuojant kūgių paviršių langeliais;100 m2
+611;115P-9;Sutvirtinimo iš betoninių plokščių pažaidų pašalinimas;10 m2
+612;115P-10;Laiptų pakopų, lieptelių, tiltelių dangos valymas ir barstymas;10 m2
+613;116P-1;Atsitiktinių daiktų ir akmenų, stambesnių kaip 5 cm skersmens (dangose iš žvyro), surinkimas;1000 m2
+614;116P-2;Atsitiktinių daiktų ir sąnašų pašalinimas, išvežant iki 5 km atstumu;1 t
+615;116P-3;Šiukšlių ir sąnašų liekanų nušlavimas rankiniu būdu nuo asfalto dangų;100 m2
+616;116P-4;Sąnašų pašalinimas iš atvirųjų vandens nuleidimo įrenginių;m3
+617;116P-5;Išdaužų asfalto dangose užtaisymas, kai jų plotas iki 5 m2;100 m2
+618;116P-6;Išdaužų 150 mm gylio užtaisymas žvyro dangose;100 m2
+619;116P-7;Sniego nustūmimas į šalikeles buldozeriu, nustumiant pusnis nuo važiuojamosios dalies;1000 m2
+620;116P-8;Dangos iš žvyro barstymas frikcinėmis medžiagomis;1000 m2
+621;116P-9;Asfalto dangos barstymas druskų (naCl) ir frikcinių medžiagų mišiniu, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+622;121P-1;Nuovažų valymas;100 m2
+623;121P-2;Išdaužų 50 mm gylio ir didesnio kaip 1 m2 ploto užtaisymas nuovažų dangose iš asfalto;100 m2
+624;121P-3;Išdaužų 150 mm gylio užtaisymas nuovažų dangose iš biriųjų medžiagų;100 m2
+625;121P-4;Kelkraščių sutvarkymas nuovažose su asfalto danga;100 m2
+626;121P-5;Išplovų nuovažų šlaituose užtaisymas;1 m3
+627;121P-6;Nuovažų kelkraščių išorinės briaunos, esant išplovoms, sutvarkymas;10 m2
+628;121P-7;Negilių (iki 10 cm) išplovų užtaisymas aplinkiniu gruntu ir sutvirtinimas, užsėjant žole;10 m2
+629;121P-8;Nuovažų griovių profilio atstatymas, iškasant gruntą;1 m3
+630;121P-9;Daugiau kaip 50 % skersmens užsikimšusių sąnašomis pralaidų dalinis išvalymas;10 m
+631;121P-10;Vandens pralaidų iš gofruotų plastikinių vamzdžių įrengimas (esamose nuovažose be vandens pralaidų);1 m
+632;121P-11;Sulaužytos betoninės pralaidos d=0,5 m pakeitimas plastikine pralaida d=0,6 m;1 m
+633;121P-12;Užpustytų nuovažų pravalymas mechanizuotu būdu;1000 m2
+634;121P-13;Nuovažų barstymas frikcinėmis medžiagomis rankiniu būdu, esant apledėjimui;100 m2
+635;121P-14;Nuovažų barstymas šlapia druska mechanizuotai;1000 m2
+636;121P-15;Druskų ir smėlio mišinio paruošimas;100 t
+637;121P-16;Druskų ir frikcinių medžiagų mišinio paruošimas;100 t
+638;121P-17;Tas pats, kai smėlis nuvežamas į sandėliavimo vietą;100 t
+639;121P-18;Tas pats, kai smėlio ir žvyro mišinys suvežamas į sandėliavimo vietą;100 t
+640;121P-19;21 % koncentracijos druskos (NaCl) tirpalo paruošimas;10 t
+641;121P-20;27 % koncentracijos druskos (CaCl2) tirpalo paruošimas;10 t
+642;21P-63-10;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+643;21P-63-15;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+644;21P-63-20;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+645;21P-63-25;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+646;21P-63-30;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+647;21P-64-10;Šlapios druskos paskleidimas, kai skleidimo norma 10 kg/1000 m2;1000 m2
+648;21P-64-15;Šlapios druskos paskleidimas, kai skleidimo norma 15 kg/1000 m2;1000 m2
+649;21P-64-20;Šlapios druskos paskleidimas, kai skleidimo norma 20 kg/1000 m2;1000 m2
+650;21P-64-25;Šlapios druskos paskleidimas, kai skleidimo norma 25 kg/1000 m2;1000 m2
+651;21P-64-30;Šlapios druskos paskleidimas, kai skleidimo norma 30 kg/1000 m2;1000 m2
+652;21P-68-10;Slidumų mažinimas, ilgai intensyviai sningant ir /arba pustant;1000 m2
+653;21P-68-15;Slidumų mažinimas, ilgai intensyviai sningant ir /arba pustant;1000 m2
+654;21P-68-20;Slidumų mažinimas, ilgai intensyviai sningant ir /arba pustant;1000 m2
+655;21P-68-25;Slidumų mažinimas, ilgai intensyviai sningant ir /arba pustant;1000 m2
+656;21P-68-30;Slidumų mažinimas, ilgai intensyviai sningant ir /arba pustant;1000 m2
+657;21P-67-10;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+658;21P-67-15;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+659;21P-67-20;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+660;21P-67-25;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+661;21P-67-30;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+662;21P-67-35;Slidumų mažinimas, naudojant kombinuotąsias valymo-barstymo mašinas;1000 m2
+663;18K-25;Kelio žemklų vienstiebių metalinių atramų (d=76 mm) ant monolitinių betoninių pamatų pastatymas;1 vnt.
+664;18K-32;Kelio žemklų vienstiebių metalinių atramų (d=89 mm) ant monolitinių betoninių pamatų pastatymas;atr.k.
+665;18K-81;Kelio ženklų skydų montavimas prie dvistiebių atramų rankiniu būdu;vnt.
+666;K31-3-ktk;400 mm skersmens vandens pralaidų 7 m ilgio iš gofruotų vamzdžių PECOR įrengomas ant natūralių pagrindų;vnt.
+667;N46-156;Stogų iš banguotų ir pusiau banguotų asbestcementinių lapų išardymas;100 m2
+668;N46-157;Gegnių išardymas;m3
+669;N46-158;Grebėstų su tarpais išardymas;100 m2
+670;N46-144;Švarių skydinių ir lentinių pertvarų išardymas;100 m2
+671;N46-132;Gelžbetoninių pamatų išardymas;m3
+672;R23-62;Statybinių šiukšlių išvežimas 10 km atstumu automobiliais-savivarčiais, pakraunant rankiniu būdu;t
+673;N6-19;Betoniniai juostiniai pamatai atraminės rūsio sienos iki 300 mm pločio, įrengiant klojinius iš lentų;m3
+674;N8-150;Dekoratyvinių konstrukcijų mūras (autokranu), kai plytos keramikinės;m3
+675;K31-6;1,0 mdiam. Vandens pralaidų iš 2,5m ilgio gelžbetoninių vamzdžių rt 10h-25 įrengimas ant natūralių pagrindų, kai pylimo aukštis iki 4m;2,5 m
+676;K31-4;0,6m diam. Vandens pralaidų iš 5.0m ilgio gelžbetoninių vamzdžių rt6.50-1 įrengimas ant natūralių pagrindų;5 m
+679;N10-66;Ilginių įrengimas iš tašų;m3
+680;N9-313;Ryšių ir spyrių iš pavienių profilių iki 50 kg masės montavimas, kai pastato aukštis iki 20 m;t
+681;N10-67;Gegnių pastatymas;m3
+682;N10-31;Viensluoksnės pertvaros iš obluotų lentų;m2
+683;N10-210-1;Medinių paviršių nutepimas PINOTEKS;100 m2
+684;N12-25;Paprastų stogų skardos danga, įrengiant grebėstus;100 m2
+685;K24-7;Suolo įrengimas;vnt.
+686;PRP-1;Kelio ženklinimas termoplastu;m2
+687;K31-33;0,6 m diam vandens pralaidų įstrižųjų antgalių įrengimas;2 vnt.
+688;21P-64-40;Šlapios druskos paskleidimas, kai skleidimo norma iki 40 kg/1000 m2;1000 m2
+689;21P-63-40;Slidumų mažinimas, pradėjus snigti ir esant trumpalaikiams krituliams;1000 m2
+690;21P-65-10;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+692;K20-5;Gazoninių bortelių 100.8.20 įrengimas ant smėlio pagrindo;100 m
+693;21P-65-20;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+694;21P-65-30;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+695;21P-65-40;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+696;21P-65-15;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+697;21P-65-25;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+698;21P-65-35;Druskų ir smėlio mišinio barsttymas, kai barstymo norma iki 200 kg/1000 m2;1000 m2
+699;18K-80;Kelio ženklų skydų montavimas prie vienstiebių atramų rankiniu būdu;vnt.
+700;16K-402;Asfaltbetonio dangos nufrezavimas freza W500;100 m2
+701;16K-320;Juodų dangų paviršiaus pagruntavimas bitumine emulsija;100 m2
+702;16K-22B;Išlyginamojo sluoksnio iš asfaltbetonio mišinio 0/11-v ir 0/8-v įrengimas, panaudojant klotuvą su automatiniun aukščio reguliavimu;1 t
+703;21K-17;Dangos ženklinimas polimerinėmis medžiagomis, esant lygiai a/b dangai, kai sluoksnio storis 3 mm;1 m2
+704;K18-80;Kelio ženklų skydų montavimas prie vienstiebių atramų rankiniu būdu;vnt.
+705;K16-22-2;Išlygnamojo sluoksnio iš asfalbetonio mišinio AC 11 VN įrengimas, panaudojant asfaltbetonio klotuvą su automatiniu aukščio reguliavimu;t
+706;K16-401;Asfaltbetonio dangos nufrezavimas freza W350;100 m2
+707;KP2.1-113-1;Smėlio drusko mišinio išvežimas į krūvas;t
+708;KP2.1-66;Slidumų mažinimas frikcinėmis medžiagomis;1000 m2
+710;KP2.1-89;Slidumų mažinimas frikcinėmis medžiagomis;1000 m2
+711;ŽT-2017;Žiemos tarnybos budinčiųjų darbuotojų kelių būklės patikra;val.
+720;K20-1-1;Betoninių bortų įrengimas;100 m
+721;K2-26;Kelmo pašalinimas iš griovio;100 vnt
+722;N27P-38;Pėsčiųjų tvorelės sigmentų atstatymas;100 m
+723;KP-001-01;Kelių patrulinė tarnyba;val.
+724;KP5.7-7;Šiukšlių surinkimas iš dėžių;10 vnt.
+725;PP-22P-5;PAPILDOMAS - Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant vieną kartą viena vieta;1000 m2
+726;PP-22P-6;PAPILDOMAS - Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu pravažiuojant tris kartus viena vieta;1000 m2
+727;K31-5;0.8 m diametro vandens pralaidų iš plastikinių gofruotų vamzdžių įrengimas ant natūralių pagrindų;m
+728;22P-5.5;Žvyro, žvyro-skaldos (žvyrkelių) profiliavimas autogreideriu, pravažiuojant du kartus viena vieta;1000 m2
+729;R16-10;Asfaltbetonio dangos ardymas rankiniu būdu, kai remontuojamas plotas iki 5 m2;m2
+730;32P-20;Kelkraščių iš biriųjų medžiagų išdaužų užtaisymas užpilant nauju medžiagos sluoksniu, 150 mm storio;100 m2
+731;32P-21;Kelkraščių iš biriųjų medžiagų nusidėvėjusio sluoksnio iki 50 mm storio atstatymas;100 m2
+732;32P-22;Kelkraščių iš biriųjų medžiagų įdubų iki 200 mm gylio užtaisymas užpilant žvyru;100 m2
+733;32P-23;Kelkraščių iš biriųjų medžiagų skersinio nuolydžio atstatymas autogreideriu, nepridedant medžiagų;100 m2
+734;K7-26;II grupės grunto kasimas ekskavatoriais su 0.25 m3 kaušu, pakrovimas į autosavivarčius, vežiojimas iki __ km ir darbas sąvartoje;1000 m3
+735;KP5-11-1;Apšvietimo įrenginių priežiūra ir gedimų pašalinimas;vnt.
+736;KP-001-02;Kelio patrulinė apžiūra;km

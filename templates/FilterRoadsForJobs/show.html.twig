@@ -1,0 +1,28 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1> This is title </h1>
+    <p>Size {{ data|length }} </p>
+
+    <table>
+        <tr>
+            <td>job_id</td>
+            <td>job_name</td>
+            <td>road_section</td>
+            <td>road_section_begin</td>
+            <td>road_section_end</td>
+            <td>section_id</td>
+        </tr>
+        {% for item in data %}
+            <tr>
+                <td>{{ item.job_id }}</td>
+                <td>{{ item.job_name }}</td>
+                <td>{{ item.road_section }}</td>
+                <td>{{ item.road_section_begin }}</td>
+                <td>{{ item.road_section_end }}</td>
+                <td>{{ item.section_id }}</td>
+
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
